@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="c.png"/>
+    <title>Agri Eye - Calibration</title>
+    <link href="bootstrap.min.css" rel="stylesheet">
+</head>
+  <body>
+    <div class="parent container d-flex justify-content-center align-items-center h-100">
+      <div class="bg-image" style="width:87%;"> <div class="hero bg-primary-dark-op"></div>
+          <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+        
+            <a class="navbar-brand" href="#">
+            <img src="c.png" width="100" height="50" class="img-fluid d-inline-block align-top" alt=""></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ms-auto mb-z2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="/">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/Server">Server</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#">Calibration</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/Configuration">Configuration</a>
+                  </li>
+                </ul>
+            </div>
+        
+          </nav>
+          
+          
+    
+          <div class="col-md-12">
+            <div class="row">
+                
+                <div class="col-4">
+                    <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                          Choose Sensor
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                          <li><a class="dropdown-item" href="#">Sensor 1</a></li>
+                          <li><a class="dropdown-item" href="/Sensor2">Sensor 2</a></li>
+                          <li><a class="dropdown-item" href="/Sensor3">Sensor 3</a></li>
+                          <li><a class="dropdown-item" href="/Sensor4">Sensor 4</a></li>
+                          <li><a class="dropdown-item" href="/Sensor5">Sensor 5</a></li>
+                          <li><a class="dropdown-item" href="/Sensor6">Sensor 6</a></li>
+                          <li><a class="dropdown-item" href="/Sensor7">Sensor 7</a></li>
+                          <li><a class="dropdown-item" href="/Sensor8">Sensor 8</a></li>
+                          <li><a class="dropdown-item" href="/Sensor9">Sensor 9</a></li>
+                        </ul>
+                      </div> 
+                    
+                            <h4 class="fw-semibold content-heading">Sensor 1</h4>
+
+                            <h4 class="fw-semibold">y = A*X + C</h4>
+                            <form action="/cal_sensor" target=""hidden-form">
+                                <div class="mb-3">
+                                <label for="a1" class="form-label h5">Nilai A</label>
+                                <input type="text" class="form-control" name="a1" placeholder="Masukkan nilai A">
+                                </div>
+                                <input type="submit" class="btn btn-primary" value="Submit"></button>
+                            </form>
+                            <br/>
+                            <form action="/cal_sensor" target=""hidden-form">
+                                <div class="mb-3">
+                                <label for="c1" class="form-label h5">Nilai C</label>
+                                <input type="text" class="form-control" name="c1" placeholder="Masukkan nilai C">
+                                </div>
+                                <input type="submit" class="btn btn-primary" value="Submit"></button>
+                            </form>
+                        
+                    
+                    
+                    <!-- Sensor 2 -->
+                 </div>   
+              </div>
+           </div>
+        </div>
+     </div>
+     <footer class="fixed-bottom">
+        <div class="text-center">
+          © 2022. TPB TP Universitas Gadjah Mada
+        
+        </footer>
+    <script src="jquery.min.js"></script>
+   
+
+    <script src="bootstrap.bundle.js"></script>
+    
+  </body>
+
+</html>	
