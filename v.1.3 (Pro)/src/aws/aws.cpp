@@ -39,9 +39,16 @@ void Aws::hidupSensor(){
 float Aws::get_temp()
 {   
     float result = 0;
-    this->readHoldingRegisters(0x9, 1);
-    result = this->getResponseBuffer(0)/100 - 40;
-    this->clearResponseBuffer();
+    float result2 =0;
+    for(int a = 0; a<9; a++){
+        this->readHoldingRegisters(0x0, 1);
+        result = this->getResponseBuffer(0)/100.00; //Satuan Celcius
+        this->clearResponseBuffer();
+        result2 += result;
+        // delay(100);
+    }
+    
+    result=result2/9.00;
 
     return result;
 }
@@ -49,9 +56,16 @@ float Aws::get_temp()
 float Aws::get_humidity()
 {   
     float result = 0;
-    this->readHoldingRegisters(0xA, 1);
-    result = this->getResponseBuffer(0)/100;
-    this->clearResponseBuffer();
+    float result2 = 0;
+    for(int a=0;a<9;a++){
+        this->readHoldingRegisters(0x1, 1);
+        result = this->getResponseBuffer(0)/100.00; //Satuan %
+        this->clearResponseBuffer();
+        result2 += result;
+        delay(100);
+    }
+    
+    result = result2/9.00;
 
     return result;
 }
@@ -59,9 +73,15 @@ float Aws::get_humidity()
 float Aws::get_atm_pressure()
 {   
     float result = 0;
-    this->readHoldingRegisters(0xB, 1);
-    result = this->getResponseBuffer(0)/10;
-    this->clearResponseBuffer();
+    float result2 = 0;
+    for(int a=0;a<9;a++){
+        this->readHoldingRegisters(0x2, 1);
+        result = this->getResponseBuffer(0)/10.00; //Satuan hPa
+        this->clearResponseBuffer();
+        result2 += result;
+        delay(100);
+    }
+    result = result2/9.00;
 
     return result;
 }
@@ -69,18 +89,26 @@ float Aws::get_atm_pressure()
 float Aws::get_wind_speed()
 {   
     float result = 0;
-    this->readHoldingRegisters(0xC, 1);
-    result = this->getResponseBuffer(0)/100;
-    this->clearResponseBuffer();
+    float result2 = 0;
+    for(int a=0;a<9;a++){
+        this->readHoldingRegisters(0x0, 1);
+        result = this->getResponseBuffer(0)* 0.036; //Satuan Km/h
+        // result = this->getResponseBuffer(0)/100.00; //Satuan m/s
+        this->clearResponseBuffer();
+        result2 += result;
+        delay(100);
+    }
 
+    result = result2/9.00;
+    
     return result;
 }
 
 float Aws::get_wind_dir()
 {   
     float result = 0;
-    this->readHoldingRegisters(0xD, 1);
-    result = this->getResponseBuffer(0)/10;
+    this->readHoldingRegisters(0x1, 1);
+    result = this->getResponseBuffer(0)/1.00; //Satuan derajat
     this->clearResponseBuffer();
 
     return result;
@@ -96,18 +124,72 @@ float Aws::get_rain()
     return result;
 }
 
-float Aws::get_illuminance()
+float Aws::get_radiance()
 {   
     float result = 0;
-    this->readHoldingRegisters(0xF, 1);
-    result = this->getResponseBuffer(0)/100;
-    this->clearResponseBuffer();
+    float result2 = 0;
+    for(int a=0;a<9;a++){
+        this->readHoldingRegisters(0x5, 1);
+        result = this->getResponseBuffer(0)/1.00; //Satuan W/m2
+        this->clearResponseBuffer();
+        result2 += result;
+        delay(100);
+    }
+    result = result2/9.00;
+
+    return result;
+}
+
+float Aws::get_pm25()
+{   
+    float result = 0;
+    float result2 = 0;
+    for(int a=0;a<9;a++){
+        this->readHoldingRegisters(0x1, 1);
+        result = this->getResponseBuffer(0)/1.00; //PM 2.5
+        this->clearResponseBuffer();
+        result2 += result;
+        delay(100);
+    }
+    result = result2/9.00;
+
+    return result;
+}
+
+float Aws::get_pm10()
+{   
+    float result = 0;
+    float result2 = 0;
+    for(int a=0;a<9;a++){
+        this->readHoldingRegisters(0x2, 1);
+        result = this->getResponseBuffer(0)/1.00; //PM 10
+        this->clearResponseBuffer();
+        result2 += result;
+        delay(100);
+    }
+    result = result2/9.00;
+
+    return result;
+}
+
+float Aws::get_sunduration()
+{   
+    float result = 0;
+    float result2 = 0;
+    for(int a=0;a<9;a++){
+        this->readHoldingRegisters(0x2, 1);
+        result = this->getResponseBuffer(0)/1.00; //PM 10
+        this->clearResponseBuffer();
+        result2 += result;
+        delay(100);
+    }
+    result = result2/9.00;
 
     return result;
 }
 
 float * Aws::get_all(){
-    const int size = 9;
+    const int size = 11;
     const int size2 = 4;
     static float result[size];
     static float result2[size2];
@@ -115,60 +197,147 @@ float * Aws::get_all(){
     buffer[2]=0.00;buffer[3]=0.00;buffer[4]=0.00;buffer[5]=0.00;buffer[8]=0.00;
     int res = 0;
 
-    for(int i=0;i<9;i++){
-        res = this->readHoldingRegisters(0x9, 8);
-    
-        result[0] = size;
-        if (res!=0) result[1] = 0;
+    result[0] = size;
+    if (res!=0) result[1] = 0;
         else result[1] = 1;
         
-        result[2] = this->getResponseBuffer(0)/100.00;    // temp in C
-        result[3] = this->getResponseBuffer(1)/100.00;         //humidity in percent
-        result[4] = this->getResponseBuffer(2)/10.00;          //atmospheric presside in hPa
-        result[5] = this->getResponseBuffer(3) * 0.036;         //wind speed in km/h
-        // result[5] = this->getResponseBuffer(3)/100;         //wind speed in m/s
-        // result[8] = this->getResponseBuffer(6); //radiation in W/m2
-        result[8] = this->getResponseBuffer(7)*0.079;         //iluminance in lux
-        this->clearResponseBuffer();
-        buffer[2] += result[2];
-        buffer[3] += result[3];
-        buffer[4] += result[4];
-        buffer[5] += result[5];
-        buffer[8] += result[8];
-        delay(100);
+        result[2] = get_temp();    // temp in C
+        result[3] = get_humidity();         //humidity in percent
+        result[4] = get_atm_pressure();          //atmospheric presside in hPa
         
-    }
     
-    res = this->readHoldingRegisters(0xD, 2);
-    result2[0] = size2;
-    if (res!=0) result2[1] = 0;
-    else result2[1] = 1;
+    return result;
+}
+
+float * Aws::get_all2(){
+    const int size = 11;
+    const int size2 = 4;
+    static float result[size];
+    static float result2[size2];
+    static float buffer[size];
+    buffer[2]=0.00;buffer[3]=0.00;buffer[4]=0.00;buffer[5]=0.00;buffer[8]=0.00;
+    int res = 0;
+
+    result[0] = size;
+    if (res!=0) result[1] = 0;
+        else result[1] = 1;
+        
+        
+        result[5] = get_wind_speed();         //wind speed in km/h
+        
+        
     
-    result2[2] = this->getResponseBuffer(0)/10.00;          //wind direction in degree
-    result2[3] = this->getResponseBuffer(1)*2.00/10.00;          //rainfall in mm/h from mm/5min
-    this->clearResponseBuffer();
+    
+    result[6] = get_wind_dir();          //wind direction in degree
+           //rainfall in mm/h from mm/5min
+    
+    return result;
+}
 
-    result[6] = result2[2];
-    result[7] = result2[3];
+float * Aws::get_all3(){
+    const int size = 11;
+    const int size2 = 4;
+    static float result[size];
+    static float result2[size2];
+    static float buffer[size];
+    buffer[2]=0.00;buffer[3]=0.00;buffer[4]=0.00;buffer[5]=0.00;buffer[8]=0.00;
+    int res = 0;
 
-    result[2] = buffer[2]/9.00;
-    result[3] = buffer[3]/9.00;
-    result[4] = buffer[4]/9.00;
-    result[5] = buffer[5]/9.00;
-    result[8] = buffer[8]/9.00;
+    result[0] = size;
+    if (res!=0) result[1] = 0;
+        else result[1] = 1;
+        
+        
+    result[7] = get_rain();          //rainfall in mm/h from mm/5min
+    
+    return result;
+}
 
+float * Aws::get_all4(){
+    const int size = 11;
+    const int size2 = 4;
+    static float result[size];
+    static float result2[size2];
+    static float buffer[size];
+    buffer[2]=0.00;buffer[3]=0.00;buffer[4]=0.00;buffer[5]=0.00;buffer[8]=0.00;
+    int res = 0;
+
+    result[0] = size;
+    if (res!=0) result[1] = 0;
+        else result[1] = 1;
+        
+       
+        result[8] = get_radiance();         //iluminance in lux
+        
+    
+    return result;
+}
+
+float * Aws::get_all5(){
+    const int size = 11;
+    const int size2 = 4;
+    static float result[size];
+    static float result2[size2];
+    static float buffer[size];
+    buffer[2]=0.00;buffer[3]=0.00;buffer[4]=0.00;buffer[5]=0.00;buffer[8]=0.00;
+    int res = 0;
+
+    result[0] = size;
+    if (res!=0) result[1] = 0;
+        else result[1] = 1;
+        
+    
+        result[9] = get_pm25();
+        result[10] = get_pm10();
+      
+    
+    return result;
+}
+
+float * Aws::get_all6(){
+    const int size = 12;
+    const int size2 = 4;
+    static float result[size];
+    static float result2[size2];
+    static float buffer[size];
+    buffer[2]=0.00;buffer[3]=0.00;buffer[4]=0.00;buffer[5]=0.00;buffer[8]=0.00;
+    int res = 0;
+
+    result[0] = size;
+    if (res!=0) result[1] = 0;
+        else result[1] = 1;
+        
+    
+        result[11] = get_sunduration();
+        
+      
+    
     return result;
 }
 
 void Aws::print_all(float data[]){
     Serial.print("status     : ");Serial.println(data[1]);
+    // static float result[11];
+
+    // result[2] = get_temp();
+    // result[3] = get_humidity();
+    // result[4] = get_atm_pressure();
+    // result[5] = get_wind_speed();
+    // result[6] = get_wind_dir();
+    // result[7] = get_rain();
+    // result[8] = get_radiance();
+    // result[9] = get_pm25();
+    // result[10] = get_pm10();
+
     Serial.print("temp       : ");Serial.println(data[2]);
     Serial.print("humidity   : ");Serial.println(data[3]);
     Serial.print("atm pres   : ");Serial.println(data[4]);
     Serial.print("wind speed : ");Serial.println(data[5]);
     Serial.print("wind dir   : ");Serial.println(data[6]);
     Serial.print("rainfall   : ");Serial.println(data[7]);
-    Serial.print("illuminance: ");Serial.println(data[8]);
+    Serial.print("radiance   : ");Serial.println(data[8]);
+    Serial.print("pm 2.5     : ");Serial.println(data[9]);
+    Serial.print("pm 10      : ");Serial.println(data[10]);
     Serial.println("+++++++++++++++++++++");
 }
 

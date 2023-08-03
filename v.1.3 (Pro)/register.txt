@@ -1,0 +1,8 @@
+Temperature 	= 102, register 0 dibagi 100 satuan C
+Humidity 	= 102, register 1 dibagi 100 satuan %
+Pressure	= 102, register 2 dibagi 10 satuan hPa
+Wind Speed	= 200, register 0 dibagi 100 satuan m/s
+Wind Direction  = 200, register 1 dibagi 1 satuan derajat
+Rainfall	= 202, register 0 
+Radiation	= 204, register 5 dibagi 1 satuan W/m2
+
