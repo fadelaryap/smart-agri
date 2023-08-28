@@ -1,0 +1,2400 @@
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Gagal Connect
+200-1-1 0:0:0
+Masuk mode GPRS
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Gagal Connect
+200-1-1 0:0:0
+Masuk mode GPRS
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Gagal Connect
+200-1-1 0:0:0
+Masuk mode GPRS
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Gagal Connect
+200-1-1 0:0:0
+Masuk mode GPRS
+Tinggi Air: 373.76, suhu: nan, kelembapan: nan, heat index: 0.00
+voltage: 12.59, power: 1238.00
+ i2c yg terbaca: 64, 104
+64, 104
+64, 104
+64, 104
+64, 104
+64, 104
+64, 104
+64, 104
+64, 104
+, Luminance: 0.00
+Relay Mati
+mencoba connect untuk mengirim ke server
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 12-6-23  21:4:32
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 12-6-23  21:4:58
+Disconnect GPRS
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Gagal Connect
+200-1-1 0:0:0
+Masuk mode GPRS
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 12-6-23  21:45:19
+Disconnect GPRS
+2023-6-12 21:50:0
+Masuk mode GPRS
+Tinggi Air: 364.58, suhu: nan, kelembapan: nan, heat index: 0.00
+voltage: 12.56, power: 1310.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 172.08
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 12 Jun 2023 14:50:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 490
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=0vfvmpe2jop7p4tmvogcmip016ced05c; expires=Mon, 12-Jun-2023 16:50:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":1686571423,"date_id":"12:21:50","fid_profil":"1","time":"2023-06-12 21:50:23","user_key":"widyabedegolaN","C0":"12.56","C1":"172.08","C2":"1310.00","C3":"0.00","C4":"0.00","C5":"nan","C6":"nan","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"635.42","C13":"364.58","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.41.97"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 12-6-23  21:57:32
+Disconnect GPRS
+2023-6-12 22:0:0
+Masuk mode GPRS
+Tinggi Air: 333.70, suhu: nan, kelembapan: nan, heat index: 0.00
+voltage: 12.56, power: 1304.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 32.32
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 12 Jun 2023 15:00:37 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 606
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=s0hq44egaqm8e0vopgc0k2roqgr0shqo; expires=Mon, 12-Jun-2023 17:00:25 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+<br>--------------- INSERT | $getmode --------------------<br><br>--------------- INSERT | $getmode --------------------<br>{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":602,"date_id":"12:22:0","fid_profil":"1","time":"2023-06-12 22:00:25","user_key":"widyabedegolaN","C0":"12.56","C1":"32.32","C2":"1304.00","C3":"0.00","C4":"0.00","C5":"nan","C6":"nan","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"666.30","C13":"333.70","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.47.124"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 13-6-23  19:55:51
+Disconnect GPRS
+2023-6-13 20:0:0
+Masuk mode GPRS
+Tinggi Air: 607.52, suhu: 20.88, kelembapan: 92.32, heat index: 0.00
+voltage: 12.56, power: 1200.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 158.40
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Jun 2023 13:00:36 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 613
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=q7br00e7kaam3ctfhong9ap273jsqk07; expires=Tue, 13-Jun-2023 15:00:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+<br>--------------- INSERT | $getmode --------------------<br><br>--------------- INSERT | $getmode --------------------<br>{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":79801,"date_id":"13:20:0","fid_profil":"1","time":"2023-06-13 20:00:24","user_key":"widyabedegolaN","C0":"12.56","C1":"158.40","C2":"1200.00","C3":"0.00","C4":"0.00","C5":"20.88","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"292.48","C13":"607.52","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.37.209"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 13-6-23  20:5:3
+Disconnect GPRS
+Sudah bangun dari sleep
+Sudah bangun dari sleep
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 1-1-4  0:3:55
+Disconnect GPRS
+200-1-1 0:0:0
+Masuk mode GPRS
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 1-1-4  0:4:13
+Disconnect GPRS
+200-1-1 0:0:0
+Masuk mode GPRS
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 1-1-4  0:4:32
+Disconnect GPRS
+200-1-1 0:0:0
+Masuk mode GPRS
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 13-6-23  20:25:9
+Disconnect GPRS
+2023-6-13 20:30:0
+Masuk mode GPRS
+Tinggi Air: 828.23, suhu: 20.65, kelembapan: 92.32, heat index: 0.00
+voltage: 12.54, power: 1374.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 156.72
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Jun 2023 13:30:35 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 489
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=tg9ufk7v26cp44r5l6thqmg18f0trdse; expires=Tue, 13-Jun-2023 15:30:25 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":81602,"date_id":"13:20:30","fid_profil":"1","time":"2023-06-13 20:30:25","user_key":"widyabedegolaN","C0":"12.54","C1":"156.72","C2":"1374.00","C3":"0.00","C4":"0.00","C5":"20.65","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"71.77","C13":"828.23","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.52.149"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 13-6-23  20:32:29
+Disconnect GPRS
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 13-6-23  21:2:51
+Disconnect GPRS
+2023-6-13 21:10:0
+Masuk mode GPRS
+Tinggi Air: 893.78, suhu: 20.95, kelembapan: 92.32, heat index: 0.00
+voltage: 12.54, power: 1514.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 0.00
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Jun 2023 14:10:25 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 488
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=iak8j1f7u4tb7o7pevc7idmanaavqve1; expires=Tue, 13-Jun-2023 16:10:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":84001,"date_id":"13:21:10","fid_profil":"1","time":"2023-06-13 21:10:24","user_key":"widyabedegolaN","C0":"12.54","C1":"0.00","C2":"1514.00","C3":"0.00","C4":"0.00","C5":"20.95","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"106.22","C13":"893.78","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.43.143"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 13-6-23  21:16:45
+Disconnect GPRS
+2023-6-13 21:20:0
+Masuk mode GPRS
+Tinggi Air: 894.63, suhu: 21.03, kelembapan: 92.32, heat index: 0.00
+voltage: 12.54, power: 1298.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 0.00
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Jun 2023 14:20:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 487
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=no2bsbdm2ijdrdb2en85f30ogfmiiq4r; expires=Tue, 13-Jun-2023 16:20:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":84600,"date_id":"13:21:20","fid_profil":"1","time":"2023-06-13 21:20:23","user_key":"widyabedegolaN","C0":"12.54","C1":"0.00","C2":"1298.00","C3":"0.00","C4":"0.00","C5":"21.03","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"105.37","C13":"894.63","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.50.53"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 13-6-23  21:26:44
+Disconnect GPRS
+2023-6-13 21:30:0
+Masuk mode GPRS
+Tinggi Air: 895.79, suhu: 20.95, kelembapan: 92.32, heat index: 0.00
+voltage: 12.55, power: 1264.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 0.00
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 13-6-23  21:36:59
+Disconnect GPRS
+2023-6-13 21:40:0
+Masuk mode GPRS
+Tinggi Air: 895.55, suhu: 20.88, kelembapan: 92.32, heat index: 0.00
+voltage: 12.54, power: 1278.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 0.00
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Jun 2023 14:40:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 487
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=689ufbbcpu9po320v9j899f3v295kr9h; expires=Tue, 13-Jun-2023 16:40:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":85799,"date_id":"13:21:40","fid_profil":"1","time":"2023-06-13 21:40:22","user_key":"widyabedegolaN","C0":"12.54","C1":"0.00","C2":"1278.00","C3":"0.00","C4":"0.00","C5":"20.88","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.45","C13":"895.55","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.69.34"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 13-6-23  21:46:41
+Disconnect GPRS
+2023-6-13 21:50:0
+Masuk mode GPRS
+Tinggi Air: 895.01, suhu: 20.88, kelembapan: 92.32, heat index: 0.00
+voltage: 12.55, power: 1282.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 0.00
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Jun 2023 14:50:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 488
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=pkhauag4k29dqv33pm8j82936icgpi6f; expires=Tue, 13-Jun-2023 16:50:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":86400,"date_id":"13:21:50","fid_profil":"1","time":"2023-06-13 21:50:23","user_key":"widyabedegolaN","C0":"12.55","C1":"0.00","C2":"1282.00","C3":"0.00","C4":"0.00","C5":"20.88","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.99","C13":"895.01","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.84.233"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  10:15:12
+Disconnect GPRS
+2023-6-14 10:20:0
+Masuk mode GPRS
+Tinggi Air: 891.94, suhu: 24.21, kelembapan: 84.71, heat index: 0.00
+voltage: 13.29, power: 1518.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 41103.36
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 03:20:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=2556p57r9cgkmbq3dm9bhgopo1q3g2qf; expires=Wed, 14-Jun-2023 05:20:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":131400,"date_id":"14:10:20","fid_profil":"1","time":"2023-06-14 10:20:23","user_key":"widyabedegolaN","C0":"13.29","C1":"41103.36","C2":"1518.00","C3":"0.00","C4":"0.00","C5":"24.21","C6":"84.71","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"108.06","C13":"891.94","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.53.34"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  10:26:41
+Disconnect GPRS
+2023-6-14 10:30:0
+Masuk mode GPRS
+Tinggi Air: 892.10, suhu: 24.44, kelembapan: 85.34, heat index: 0.00
+voltage: 12.96, power: 1426.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 14540.80
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  10:36:58
+Disconnect GPRS
+2023-6-14 10:40:0
+Masuk mode GPRS
+Tinggi Air: 891.49, suhu: 24.36, kelembapan: 84.44, heat index: 0.00
+voltage: 13.36, power: 1472.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 36126.72
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 03:40:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 491
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=pp4b7oiao1vgg8j7986e5hgrgm38anud; expires=Wed, 14-Jun-2023 05:40:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":132601,"date_id":"14:10:40","fid_profil":"1","time":"2023-06-14 10:40:24","user_key":"widyabedegolaN","C0":"13.36","C1":"36126.72","C2":"1472.00","C3":"0.00","C4":"0.00","C5":"24.36","C6":"84.44","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"108.51","C13":"891.49","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.46.2"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  10:46:46
+Disconnect GPRS
+2023-6-14 10:50:0
+Masuk mode GPRS
+Tinggi Air: 892.25, suhu: 24.44, kelembapan: 82.92, heat index: 0.00
+voltage: 13.38, power: 1360.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 50749.44
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 03:50:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=u825e8dfq14hsoad0ep4u9pc3442fc9e; expires=Wed, 14-Jun-2023 05:50:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":133199,"date_id":"14:10:50","fid_profil":"1","time":"2023-06-14 10:50:22","user_key":"widyabedegolaN","C0":"13.38","C1":"50749.44","C2":"1360.00","C3":"0.00","C4":"0.00","C5":"24.44","C6":"82.92","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"107.75","C13":"892.25","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.40.205"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  10:56:41
+Disconnect GPRS
+2023-6-14 11:0:0
+Masuk mode GPRS
+Tinggi Air: 893.96, suhu: 23.91, kelembapan: 89.36, heat index: 0.00
+voltage: 13.30, power: 1750.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 38891.52
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 04:00:32 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 491
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=35edgerc2btc3hechfo6o77jv17290rl; expires=Wed, 14-Jun-2023 06:00:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":133799,"date_id":"14:11:0","fid_profil":"1","time":"2023-06-14 11:00:22","user_key":"widyabedegolaN","C0":"13.30","C1":"38891.52","C2":"1750.00","C3":"0.00","C4":"0.00","C5":"23.91","C6":"89.36","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"106.04","C13":"893.96","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.44.52"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  11:6:55
+Disconnect GPRS
+2023-6-14 11:10:0
+Masuk mode GPRS
+Tinggi Air: 892.66, suhu: 24.89, kelembapan: 81.76, heat index: 0.00
+voltage: 13.01, power: 1356.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 14284.80
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 04:10:21 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 491
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=li9sir7bvr0frn15lleggpvi45n8pjpc; expires=Wed, 14-Jun-2023 06:10:21 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":134398,"date_id":"14:11:10","fid_profil":"1","time":"2023-06-14 11:10:21","user_key":"widyabedegolaN","C0":"13.01","C1":"14284.80","C2":"1356.00","C3":"0.00","C4":"0.00","C5":"24.89","C6":"81.76","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"107.34","C13":"892.66","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.39.6"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Gagal Connect
+200-1-1 0:0:0
+Masuk mode GPRS
+Tinggi Air: 893.22, suhu: 23.68, kelembapan: 87.48, heat index: 0.00
+voltage: 12.97, power: 1504.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 16773.12
+Relay Mati
+mencoba connect untuk mengirim ke server
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Gagal Connect
+200-1-1 0:0:0
+Masuk mode GPRS
+Tinggi Air: 891.79, suhu: 23.68, kelembapan: 87.84, heat index: 0.00
+voltage: 12.93, power: 1350.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 12072.96
+Relay Mati
+mencoba connect untuk mengirim ke server
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  11:29:27
+Disconnect GPRS
+2023-6-14 11:30:0
+Masuk mode GPRS
+Tinggi Air: 891.32, suhu: 23.76, kelembapan: 91.60, heat index: 0.00
+voltage: 12.93, power: 1740.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 12974.08
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 04:30:35 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 616
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=vk7b8pdmgmv0eoen30n222p85n5t7q6j; expires=Wed, 14-Jun-2023 06:30:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+<br>--------------- INSERT | $getmode --------------------<br><br>--------------- INSERT | $getmode --------------------<br>{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":135600,"date_id":"14:11:30","fid_profil":"1","time":"2023-06-14 11:30:23","user_key":"widyabedegolaN","C0":"12.93","C1":"12974.08","C2":"1740.00","C3":"0.00","C4":"0.00","C5":"23.76","C6":"91.60","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"108.68","C13":"891.32","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.47.27"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  11:36:56
+Disconnect GPRS
+2023-6-14 11:40:0
+Masuk mode GPRS
+Tinggi Air: 896.23, suhu: 23.68, kelembapan: 90.88, heat index: 0.00
+voltage: 13.01, power: 1564.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 16957.44
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 04:40:21 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=62ejd9tumsliiq51llt0cgfd035phbtr; expires=Wed, 14-Jun-2023 06:40:21 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":136198,"date_id":"14:11:40","fid_profil":"1","time":"2023-06-14 11:40:21","user_key":"widyabedegolaN","C0":"13.01","C1":"16957.44","C2":"1564.00","C3":"0.00","C4":"0.00","C5":"23.68","C6":"90.88","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"103.77","C13":"896.23","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.73.206"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  11:46:43
+Disconnect GPRS
+2023-6-14 11:50:0
+Masuk mode GPRS
+Tinggi Air: 896.10, suhu: 24.06, kelembapan: 92.32, heat index: 0.00
+voltage: 13.00, power: 1590.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 14858.24
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 04:50:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=rii8bslv7echin8ne2p7lskmpvnsk417; expires=Wed, 14-Jun-2023 06:50:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":136801,"date_id":"14:11:50","fid_profil":"1","time":"2023-06-14 11:50:24","user_key":"widyabedegolaN","C0":"13.00","C1":"14858.24","C2":"1590.00","C3":"0.00","C4":"0.00","C5":"24.06","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"103.90","C13":"896.10","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.71.241"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  11:56:46
+Disconnect GPRS
+2023-6-14 12:0:0
+Masuk mode GPRS
+Tinggi Air: 894.71, suhu: 24.51, kelembapan: 88.38, heat index: 0.00
+voltage: 12.95, power: 1396.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 13363.20
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 05:00:33 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=g0bdnijcpjs9cmloftks98nnp15e6el3; expires=Wed, 14-Jun-2023 07:00:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":137399,"date_id":"14:12:0","fid_profil":"1","time":"2023-06-14 12:00:22","user_key":"widyabedegolaN","C0":"12.95","C1":"13363.20","C2":"1396.00","C3":"0.00","C4":"0.00","C5":"24.51","C6":"88.38","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"105.29","C13":"894.71","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.51.143"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  12:6:56
+Disconnect GPRS
+2023-6-14 12:10:0
+Masuk mode GPRS
+Tinggi Air: 895.43, suhu: 24.29, kelembapan: 86.14, heat index: 0.00
+voltage: 13.04, power: 1340.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 18350.08
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 05:10:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=mbe76tbctjo4hdu3gh6dkbe01lthrl59; expires=Wed, 14-Jun-2023 07:10:21 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":137998,"date_id":"14:12:10","fid_profil":"1","time":"2023-06-14 12:10:21","user_key":"widyabedegolaN","C0":"13.04","C1":"18350.08","C2":"1340.00","C3":"0.00","C4":"0.00","C5":"24.29","C6":"86.14","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.57","C13":"895.43","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.75.193"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  12:16:43
+Disconnect GPRS
+2023-6-14 12:20:0
+Masuk mode GPRS
+Tinggi Air: 894.89, suhu: 24.21, kelembapan: 84.71, heat index: 0.00
+voltage: 12.95, power: 1402.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 12175.36
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 05:20:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=4brf6d6kb71r7pc7omr7e1olhnmrlhq7; expires=Wed, 14-Jun-2023 07:20:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":138601,"date_id":"14:12:20","fid_profil":"1","time":"2023-06-14 12:20:24","user_key":"widyabedegolaN","C0":"12.95","C1":"12175.36","C2":"1402.00","C3":"0.00","C4":"0.00","C5":"24.21","C6":"84.71","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"105.11","C13":"894.89","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.69.17"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  12:26:46
+Disconnect GPRS
+2023-6-14 12:30:0
+Masuk mode GPRS
+Tinggi Air: 895.93, suhu: 24.36, kelembapan: 81.85, heat index: 0.00
+voltage: 13.08, power: 1324.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 29798.40
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 05:30:35 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 616
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=53a1bo0s691sdgpn42snab0vijeek68a; expires=Wed, 14-Jun-2023 07:30:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+<br>--------------- INSERT | $getmode --------------------<br><br>--------------- INSERT | $getmode --------------------<br>{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":139200,"date_id":"14:12:30","fid_profil":"1","time":"2023-06-14 12:30:23","user_key":"widyabedegolaN","C0":"13.08","C1":"29798.40","C2":"1324.00","C3":"0.00","C4":"0.00","C5":"24.36","C6":"81.85","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.07","C13":"895.93","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.77.99"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  12:36:58
+Disconnect GPRS
+2023-6-14 12:40:0
+Masuk mode GPRS
+Tinggi Air: 895.86, suhu: 25.04, kelembapan: 76.12, heat index: 0.00
+voltage: 13.02, power: 1314.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 13455.36
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 05:40:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=n0sdl3vvffggrvnofrdmqihd6ma87l8c; expires=Wed, 14-Jun-2023 07:40:21 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":139798,"date_id":"14:12:40","fid_profil":"1","time":"2023-06-14 12:40:21","user_key":"widyabedegolaN","C0":"13.02","C1":"13455.36","C2":"1314.00","C3":"0.00","C4":"0.00","C5":"25.04","C6":"76.12","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.14","C13":"895.86","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.50.229"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  12:46:43
+Disconnect GPRS
+2023-6-14 12:50:0
+Masuk mode GPRS
+Tinggi Air: 893.81, suhu: 24.67, kelembapan: 75.41, heat index: 0.00
+voltage: 12.93, power: 1482.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 10501.12
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 05:50:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=nh5ccs4e08617knu28qf9kk2jfhb4val; expires=Wed, 14-Jun-2023 07:50:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":140401,"date_id":"14:12:50","fid_profil":"1","time":"2023-06-14 12:50:24","user_key":"widyabedegolaN","C0":"12.93","C1":"10501.12","C2":"1482.00","C3":"0.00","C4":"0.00","C5":"24.67","C6":"75.41","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"106.19","C13":"893.81","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.50.147"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  12:56:46
+Disconnect GPRS
+2023-6-14 13:0:0
+Masuk mode GPRS
+Tinggi Air: 893.91, suhu: 24.13, kelembapan: 81.31, heat index: 0.00
+voltage: 12.95, power: 1324.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 22784.00
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 06:00:32 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=ml44ec4kgmtnq8bhe86e9c0mheh72cd7; expires=Wed, 14-Jun-2023 08:00:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":140999,"date_id":"14:13:0","fid_profil":"1","time":"2023-06-14 13:00:22","user_key":"widyabedegolaN","C0":"12.95","C1":"22784.00","C2":"1324.00","C3":"0.00","C4":"0.00","C5":"24.13","C6":"81.31","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"106.09","C13":"893.91","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.83.118"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  13:6:52
+Disconnect GPRS
+2023-6-14 13:10:0
+Masuk mode GPRS
+Tinggi Air: 896.11, suhu: 23.98, kelembapan: 81.49, heat index: 0.00
+voltage: 13.02, power: 1320.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 12994.56
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 06:10:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=5vsdlg7g3qb2aovmllslr0veb0pfrbts; expires=Wed, 14-Jun-2023 08:10:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":141601,"date_id":"14:13:10","fid_profil":"1","time":"2023-06-14 13:10:24","user_key":"widyabedegolaN","C0":"13.02","C1":"12994.56","C2":"1320.00","C3":"0.00","C4":"0.00","C5":"23.98","C6":"81.49","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"103.89","C13":"896.11","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.71.178"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  13:16:46
+Disconnect GPRS
+2023-6-14 13:20:0
+Masuk mode GPRS
+Tinggi Air: 896.42, suhu: 24.97, kelembapan: 83.82, heat index: 0.00
+voltage: 13.05, power: 1330.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 14714.88
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 06:20:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=ggurlct233jq8jo8o0eb8pp74c8f1ak7; expires=Wed, 14-Jun-2023 08:20:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":142200,"date_id":"14:13:20","fid_profil":"1","time":"2023-06-14 13:20:23","user_key":"widyabedegolaN","C0":"13.05","C1":"14714.88","C2":"1330.00","C3":"0.00","C4":"0.00","C5":"24.97","C6":"83.82","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"103.58","C13":"896.42","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.47.218"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  13:26:42
+Disconnect GPRS
+2023-6-14 13:30:0
+Masuk mode GPRS
+Tinggi Air: 893.75, suhu: 25.27, kelembapan: 77.82, heat index: 0.00
+voltage: 12.98, power: 1320.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 10603.52
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 06:30:37 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 617
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=lecata9j09kifmvh8tbqev2u8bv8q5go; expires=Wed, 14-Jun-2023 08:30:25 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+<br>--------------- INSERT | $getmode --------------------<br><br>--------------- INSERT | $getmode --------------------<br>{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":142802,"date_id":"14:13:30","fid_profil":"1","time":"2023-06-14 13:30:25","user_key":"widyabedegolaN","C0":"12.98","C1":"10603.52","C2":"1320.00","C3":"0.00","C4":"0.00","C5":"25.27","C6":"77.82","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"106.25","C13":"893.75","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.84.207"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  13:36:60
+Disconnect GPRS
+2023-6-14 13:40:0
+Masuk mode GPRS
+Tinggi Air: 896.07, suhu: 24.97, kelembapan: 80.33, heat index: 0.00
+voltage: 12.93, power: 1534.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 9564.16
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 06:40:04 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 491
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=n9shp9g84abcdgo8q501p9t2sq7tqv2o; expires=Wed, 14-Jun-2023 08:40:03 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":143380,"date_id":"14:13:40","fid_profil":"1","time":"2023-06-14 13:40:03","user_key":"widyabedegolaN","C0":"12.93","C1":"9564.16","C2":"1534.00","C3":"0.00","C4":"0.00","C5":"24.97","C6":"80.33","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"103.93","C13":"896.07","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.79.27"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  13:46:23
+Disconnect GPRS
+2023-6-14 13:50:0
+Masuk mode GPRS
+Tinggi Air: 893.91, suhu: 24.59, kelembapan: 89.27, heat index: 0.00
+voltage: 12.90, power: 1324.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 8570.88
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 06:50:25 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 491
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=af05vdnhmh9o46u8eugklku9uh1pnuqa; expires=Wed, 14-Jun-2023 08:50:25 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":144002,"date_id":"14:13:50","fid_profil":"1","time":"2023-06-14 13:50:25","user_key":"widyabedegolaN","C0":"12.90","C1":"8570.88","C2":"1324.00","C3":"0.00","C4":"0.00","C5":"24.59","C6":"89.27","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"106.09","C13":"893.91","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.71.60"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  13:56:46
+Disconnect GPRS
+2023-6-14 14:0:0
+Masuk mode GPRS
+Tinggi Air: 893.52, suhu: 24.29, kelembapan: 85.78, heat index: 0.00
+voltage: 12.86, power: 1412.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 8017.92
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 07:00:33 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 490
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=u4b6ad4n3oqks2jspnvqu8f92mitchi4; expires=Wed, 14-Jun-2023 09:00:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":144600,"date_id":"14:14:0","fid_profil":"1","time":"2023-06-14 14:00:23","user_key":"widyabedegolaN","C0":"12.86","C1":"8017.92","C2":"1412.00","C3":"0.00","C4":"0.00","C5":"24.29","C6":"85.78","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"106.48","C13":"893.52","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.70.97"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  14:6:53
+Disconnect GPRS
+2023-6-14 14:10:0
+Masuk mode GPRS
+Tinggi Air: 892.12, suhu: 24.06, kelembapan: 91.60, heat index: 0.00
+voltage: 12.88, power: 1402.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 8581.12
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 07:10:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=c3bp36mprdl3tn46tsnendd83jb7d19h; expires=Wed, 14-Jun-2023 09:10:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":145199,"date_id":"14:14:10","fid_profil":"1","time":"2023-06-14 14:10:22","user_key":"widyabedegolaN","C0":"12.88","C1":"8581.12","C2":"1402.00","C3":"0.00","C4":"0.00","C5":"24.06","C6":"91.60","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"107.88","C13":"892.12","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.72.118"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  14:16:44
+Disconnect GPRS
+2023-6-14 14:20:0
+Masuk mode GPRS
+Tinggi Air: 895.74, suhu: 24.06, kelembapan: 92.32, heat index: 0.00
+voltage: 12.98, power: 1458.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 25415.68
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 07:20:21 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=on37h5s03eudgrn5b0iufgl8obn1233e; expires=Wed, 14-Jun-2023 09:20:21 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":145798,"date_id":"14:14:20","fid_profil":"1","time":"2023-06-14 14:20:21","user_key":"widyabedegolaN","C0":"12.98","C1":"25415.68","C2":"1458.00","C3":"0.00","C4":"0.00","C5":"24.06","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.26","C13":"895.74","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.38.21"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  14:26:41
+Disconnect GPRS
+2023-6-14 14:30:0
+Masuk mode GPRS
+Tinggi Air: 894.86, suhu: 24.51, kelembapan: 92.32, heat index: 0.00
+voltage: 13.02, power: 1360.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 31129.60
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 07:30:36 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 716
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=utopu55udh3gelobhp8i0adn3qkeel20; expires=Wed, 14-Jun-2023 09:30:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+<br>--------------- INSERT | $getmode --------------------<br><br>--------------- INSERT | $getmode --------------------<br>The configuration file does not exist.<br>--------------- INSERT | $getmode --------------------<br>{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":146401,"date_id":"14:14:30","fid_profil":"1","time":"2023-06-14 14:30:24","user_key":"widyabedegolaN","C0":"13.02","C1":"31129.60","C2":"1360.00","C3":"0.00","C4":"0.00","C5":"24.51","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"105.14","C13":"894.86","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.41.74"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  14:36:57
+Disconnect GPRS
+2023-6-14 14:40:0
+Masuk mode GPRS
+Tinggi Air: 895.01, suhu: 25.20, kelembapan: 87.39, heat index: 0.00
+voltage: 12.98, power: 1540.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 14274.56
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 07:40:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=bd2kk909r8pnfs8ksrm40qg5rarbdp0j; expires=Wed, 14-Jun-2023 09:40:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":146999,"date_id":"14:14:40","fid_profil":"1","time":"2023-06-14 14:40:22","user_key":"widyabedegolaN","C0":"12.98","C1":"14274.56","C2":"1540.00","C3":"0.00","C4":"0.00","C5":"25.20","C6":"87.39","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.99","C13":"895.01","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.42.103"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  14:46:44
+Disconnect GPRS
+2023-6-14 14:50:0
+Masuk mode GPRS
+Tinggi Air: 894.91, suhu: 24.82, kelembapan: 85.34, heat index: 0.00
+voltage: 13.03, power: 1328.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 13363.20
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 07:50:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 493
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=knc4qsle91g3r7h5tnmhjhcmpkfjv90f; expires=Wed, 14-Jun-2023 09:50:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":147600,"date_id":"14:14:50","fid_profil":"1","time":"2023-06-14 14:50:23","user_key":"widyabedegolaN","C0":"13.03","C1":"13363.20","C2":"1328.00","C3":"0.00","C4":"0.00","C5":"24.82","C6":"85.34","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"105.09","C13":"894.91","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.72.191"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  14:56:45
+Disconnect GPRS
+2023-6-14 15:0:0
+Masuk mode GPRS
+Tinggi Air: 895.74, suhu: 24.74, kelembapan: 89.36, heat index: 0.00
+voltage: 12.98, power: 1318.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 10828.80
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 08:00:32 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=1tvmjec52vtqbphlmvh7jfat3er5eg6m; expires=Wed, 14-Jun-2023 10:00:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":148199,"date_id":"14:15:0","fid_profil":"1","time":"2023-06-14 15:00:22","user_key":"widyabedegolaN","C0":"12.98","C1":"10828.80","C2":"1318.00","C3":"0.00","C4":"0.00","C5":"24.74","C6":"89.36","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.26","C13":"895.74","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.78.109"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  15:6:53
+Disconnect GPRS
+2023-6-14 15:10:0
+Masuk mode GPRS
+Tinggi Air: 893.10, suhu: 24.59, kelembapan: 88.38, heat index: 0.00
+voltage: 12.96, power: 1334.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 9722.88
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 08:10:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 491
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=jh1uhcssn9opvqtq9lu5qbmee7makda5; expires=Wed, 14-Jun-2023 10:10:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":148800,"date_id":"14:15:10","fid_profil":"1","time":"2023-06-14 15:10:23","user_key":"widyabedegolaN","C0":"12.96","C1":"9722.88","C2":"1334.00","C3":"0.00","C4":"0.00","C5":"24.59","C6":"88.38","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"106.90","C13":"893.10","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.68.91"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  15:16:44
+Disconnect GPRS
+2023-6-14 15:20:0
+Masuk mode GPRS
+Tinggi Air: 895.36, suhu: 24.44, kelembapan: 90.70, heat index: 0.00
+voltage: 12.96, power: 1304.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 9369.60
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 08:20:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 491
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=jij9qvm6vnumabkpsn7s9btl00rasaeg; expires=Wed, 14-Jun-2023 10:20:21 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":149398,"date_id":"14:15:20","fid_profil":"1","time":"2023-06-14 15:20:21","user_key":"widyabedegolaN","C0":"12.96","C1":"9369.60","C2":"1304.00","C3":"0.00","C4":"0.00","C5":"24.44","C6":"90.70","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.64","C13":"895.36","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.50.88"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  15:26:43
+Disconnect GPRS
+2023-6-14 15:30:0
+Masuk mode GPRS
+Tinggi Air: 894.73, suhu: 24.29, kelembapan: 86.23, heat index: 0.00
+voltage: 12.93, power: 1310.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 7987.20
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 08:30:36 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 616
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=k97bru8d0o1b245vdfcecd36u528nl55; expires=Wed, 14-Jun-2023 10:30:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+<br>--------------- INSERT | $getmode --------------------<br><br>--------------- INSERT | $getmode --------------------<br>{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":150001,"date_id":"14:15:30","fid_profil":"1","time":"2023-06-14 15:30:24","user_key":"widyabedegolaN","C0":"12.93","C1":"7987.20","C2":"1310.00","C3":"0.00","C4":"0.00","C5":"24.29","C6":"86.23","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"105.27","C13":"894.73","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.77.199"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  15:36:57
+Disconnect GPRS
+2023-6-14 15:40:0
+Masuk mode GPRS
+Tinggi Air: 896.10, suhu: 24.29, kelembapan: 86.59, heat index: 0.00
+voltage: 12.89, power: 1294.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 6635.52
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 08:40:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=ttcf95v6rmvgcpdq9cafdpsielnd9q4j; expires=Wed, 14-Jun-2023 10:40:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":150600,"date_id":"14:15:40","fid_profil":"1","time":"2023-06-14 15:40:23","user_key":"widyabedegolaN","C0":"12.89","C1":"6635.52","C2":"1294.00","C3":"0.00","C4":"0.00","C5":"24.29","C6":"86.59","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"103.90","C13":"896.10","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.40.244"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  15:46:44
+Disconnect GPRS
+2023-6-14 15:50:0
+Masuk mode GPRS
+Tinggi Air: 895.96, suhu: 24.13, kelembapan: 91.78, heat index: 0.00
+voltage: 12.84, power: 1324.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 4523.52
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 08:50:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=smijndi0eq9t0l9lvc8ar2t85jcljvlh; expires=Wed, 14-Jun-2023 10:50:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":151201,"date_id":"14:15:50","fid_profil":"1","time":"2023-06-14 15:50:24","user_key":"widyabedegolaN","C0":"12.84","C1":"4523.52","C2":"1324.00","C3":"0.00","C4":"0.00","C5":"24.13","C6":"91.78","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.04","C13":"895.96","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.43.245"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  15:56:43
+Disconnect GPRS
+2023-6-14 16:0:0
+Masuk mode GPRS
+Tinggi Air: 894.54, suhu: 23.98, kelembapan: 92.32, heat index: 0.00
+voltage: 12.81, power: 1428.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 3479.04
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  16:6:53
+Disconnect GPRS
+2023-6-14 16:10:0
+Masuk mode GPRS
+Tinggi Air: 896.19, suhu: 23.83, kelembapan: 91.33, heat index: 0.00
+voltage: 12.82, power: 1304.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 3870.72
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 09:10:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=fd00t1odj406lheljm0hs2m56dt8tm2b; expires=Wed, 14-Jun-2023 11:10:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":152399,"date_id":"14:16:10","fid_profil":"1","time":"2023-06-14 16:10:22","user_key":"widyabedegolaN","C0":"12.82","C1":"3870.72","C2":"1304.00","C3":"0.00","C4":"0.00","C5":"23.83","C6":"91.33","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"103.81","C13":"896.19","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.72.163"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  16:16:41
+Disconnect GPRS
+2023-6-14 16:20:0
+Masuk mode GPRS
+Tinggi Air: 895.45, suhu: 23.68, kelembapan: 92.32, heat index: 0.00
+voltage: 12.79, power: 1340.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 2937.60
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 09:20:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 491
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=icg6066am5rtqp1t56idctoelf6vvnt2; expires=Wed, 14-Jun-2023 11:20:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":152999,"date_id":"14:16:20","fid_profil":"1","time":"2023-06-14 16:20:22","user_key":"widyabedegolaN","C0":"12.79","C1":"2937.60","C2":"1340.00","C3":"0.00","C4":"0.00","C5":"23.68","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.55","C13":"895.45","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.82.22"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  16:26:43
+Disconnect GPRS
+2023-6-14 16:30:0
+Masuk mode GPRS
+Tinggi Air: 895.33, suhu: 23.60, kelembapan: 92.32, heat index: 0.00
+voltage: 12.76, power: 1416.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 1948.16
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  16:36:59
+Disconnect GPRS
+2023-6-14 16:40:0
+Masuk mode GPRS
+Tinggi Air: 895.77, suhu: 23.45, kelembapan: 92.32, heat index: 0.00
+voltage: 12.75, power: 1528.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 1612.80
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 09:40:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=p8oanmdjr3h3l26kqtoot0sclge3emnb; expires=Wed, 14-Jun-2023 11:40:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":154199,"date_id":"14:16:40","fid_profil":"1","time":"2023-06-14 16:40:22","user_key":"widyabedegolaN","C0":"12.75","C1":"1612.80","C2":"1528.00","C3":"0.00","C4":"0.00","C5":"23.45","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.23","C13":"895.77","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.51.161"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  16:46:43
+Disconnect GPRS
+2023-6-14 16:50:0
+Masuk mode GPRS
+Tinggi Air: 895.30, suhu: 23.30, kelembapan: 92.32, heat index: 0.00
+voltage: 12.74, power: 1418.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 1353.60
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 09:50:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 492
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=0pnvqrpli6oe6jqkftfuafuhpuouiqkf; expires=Wed, 14-Jun-2023 11:50:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":154801,"date_id":"14:16:50","fid_profil":"1","time":"2023-06-14 16:50:24","user_key":"widyabedegolaN","C0":"12.74","C1":"1353.60","C2":"1418.00","C3":"0.00","C4":"0.00","C5":"23.30","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"104.70","C13":"895.30","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.41.143"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+Sudah bangun dari sleep
+i2c yg terbaca: 64, 74, 104
+mencoba connect buat dapet waktu
+Berhasil connect
+Membaca Waktu
+Waktu adalah = 14-6-23  16:56:46
+Disconnect GPRS
+2023-6-14 17:0:0
+Masuk mode GPRS
+Tinggi Air: 894.01, suhu: 23.23, kelembapan: 92.32, heat index: 0.00
+voltage: 12.74, power: 1448.00
+ i2c yg terbaca: 64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+64, 74, 104
+, Luminance: 829.44
+Relay Mati
+mencoba connect untuk mengirim ke server
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 14 Jun 2023 10:00:33 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 490
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=pndup0b18bd01bt1lidi00nnu1i8sc95; expires=Wed, 14-Jun-2023 12:00:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWLMS Ultrasonik","address":"","ispublic":"Public","d_time":155400,"date_id":"14:17:0","fid_profil":"1","time":"2023-06-14 17:00:23","user_key":"widyabedegolaN","C0":"12.74","C1":"829.44","C2":"1448.00","C3":"0.00","C4":"0.00","C5":"23.23","C6":"92.32","C7":"0.00","C8":"0.00","C9":"0.00","C10":"0.00","C11":"0.00","C12":"105.99","C13":"894.01","C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.38.123"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
