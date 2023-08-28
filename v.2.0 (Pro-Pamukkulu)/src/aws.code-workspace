@@ -1,0 +1,99 @@
+{
+	"folders": [
+		{
+			"name": "aws",
+			"path": ".."
+		},
+		{
+			"name": "AWS_Maintanance-ESP32",
+			"path": "../../Downloads/smart-agri-main-AWS_Maintanance-ESP32/AWS_Maintanance-ESP32"
+		},
+		{
+			"name": "c",
+			"path": "../../Documents/c"
+		},
+		{
+			"name": "SMCBaru",
+			"path": "../../smart-agri/SMCBaru"
+		},
+		{
+			"name": "AWLMS",
+			"path": "../../smart-agri/AWLMS"
+		},
+		{
+			"name": "NPK",
+			"path": "../../smart-agri/NPK/NPK"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"xstring": "cpp",
+			"atomic": "cpp",
+			"charconv": "cpp",
+			"chrono": "cpp",
+			"compare": "cpp",
+			"deque": "cpp",
+			"format": "cpp",
+			"fstream": "cpp",
+			"numeric": "cpp",
+			"random": "cpp",
+			"regex": "cpp",
+			"system_error": "cpp",
+			"type_traits": "cpp",
+			"vector": "cpp",
+			"xhash": "cpp",
+			"xlocale": "cpp",
+			"xlocbuf": "cpp",
+			"xloctime": "cpp",
+			"xutility": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"limits": "cpp",
+			"ratio": "cpp",
+			"shared_mutex": "cpp",
+			"streambuf": "cpp",
+			"tuple": "cpp",
+			"xlocinfo": "cpp",
+			"string": "cpp",
+			"*.tpp": "cpp",
+			"array": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"condition_variable": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"map": "cpp",
+			"memory_resource": "cpp",
+			"optional": "cpp",
+			"string_view": "cpp",
+			"utility": "cpp",
+			"initializer_list": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"thread": "cpp",
+			"cinttypes": "cpp",
+			"typeinfo": "cpp"
+		}
+	}
+}

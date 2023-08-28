@@ -1,0 +1,420 @@
+2023-8-4 17:20:0
+Masuk mode GPRS
+Sensor 1 = 19.83, Sensor 2 = 51.23, Sensor 3 = 998.30, Sensor 4 = 0.17, Sensor 5 = 108.00, Sensor 6 = 0.00, Sensor 7 = 77.00, Voltage = 11.90
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 10:20:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 488
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=ks545285hq2jti0qfersb4cq55u407gu; expires=Fri, 04-Aug-2023 12:20:28 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Ultrasonic","address":"","ispublic":"Public","d_time":11233812,"date_id":"04:17:20","fid_profil":"47","time":"2023-08-04 17:20:28","user_key":"SmartAWSSapon","C0":"11.90","C1":"77.00","C2":"998.30","C3":"1192.00","C4":"0.00","C5":"19.83","C6":"51.23","C7":"0.00","C8":"0.17","C9":"108.00","C10":"16.00","C11":"19.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.71.115"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 18:40:0
+Masuk mode GPRS
+Sensor 1 = 19.06, Sensor 2 = 49.21, Sensor 3 = 999.30, Sensor 4 = 0.27, Sensor 5 = 179.00, Sensor 6 = 9.59, Sensor 7 = 0.00, Voltage = 11.85
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 18:50:0
+Masuk mode GPRS
+Sensor 1 = 19.17, Sensor 2 = 47.45, Sensor 3 = 999.40, Sensor 4 = 0.35, Sensor 5 = 157.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.76
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 11:50:26 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 487
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=ma6tu93daf2h3d53283pthc230n8e6pa; expires=Fri, 04-Aug-2023 13:50:26 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Ultrasonic","address":"","ispublic":"Public","d_time":11239210,"date_id":"04:18:50","fid_profil":"47","time":"2023-08-04 18:50:26","user_key":"SmartAWSSapon","C0":"11.76","C1":"0.00","C2":"999.40","C3":"1292.00","C4":"0.00","C5":"19.17","C6":"47.45","C7":"0.00","C8":"0.35","C9":"157.00","C10":"16.22","C11":"21.78","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.73.147"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 19:0:0
+Masuk mode GPRS
+Sensor 1 = 19.13, Sensor 2 = 47.08, Sensor 3 = 999.56, Sensor 4 = 0.18, Sensor 5 = 270.00, Sensor 6 = 31.86, Sensor 7 = 0.00, Voltage = 11.68
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 12:00:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 487
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=k5pp7a6jvtra0c357nn69uq8abaqprn5; expires=Fri, 04-Aug-2023 14:00:27 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Ultrasonic","address":"","ispublic":"Public","d_time":11239811,"date_id":"04:19:0","fid_profil":"47","time":"2023-08-04 19:00:27","user_key":"SmartAWSSapon","C0":"11.68","C1":"0.00","C2":"999.56","C3":"1396.00","C4":"0.00","C5":"19.13","C6":"47.08","C7":"31.86","C8":"0.18","C9":"270.00","C10":"19.00","C11":"25.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.39.139"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 19:10:0
+Masuk mode GPRS
+Sensor 1 = 19.09, Sensor 2 = 47.00, Sensor 3 = 999.70, Sensor 4 = 0.20, Sensor 5 = 268.00, Sensor 6 = 34.76, Sensor 7 = 0.00, Voltage = 11.87
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 12:10:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 488
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=t78jtc9v9m4ld57a7sf9pleibtejnl77; expires=Fri, 04-Aug-2023 14:10:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Ultrasonic","address":"","ispublic":"Public","d_time":11240408,"date_id":"04:19:10","fid_profil":"47","time":"2023-08-04 19:10:24","user_key":"SmartAWSSapon","C0":"11.87","C1":"0.00","C2":"999.70","C3":"1186.00","C4":"0.00","C5":"19.09","C6":"47.00","C7":"34.76","C8":"0.20","C9":"268.00","C10":"18.78","C11":"23.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.42.168"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 19:20:0
+Masuk mode GPRS
+Sensor 1 = 19.13, Sensor 2 = 46.01, Sensor 3 = 999.70, Sensor 4 = 0.38, Sensor 5 = 154.00, Sensor 6 = 34.36, Sensor 7 = 0.00, Voltage = 11.84
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 12:20:25 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 488
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=bata85fl689sj5li02dkm333jmit77q5; expires=Fri, 04-Aug-2023 14:20:25 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Ultrasonic","address":"","ispublic":"Public","d_time":11241009,"date_id":"04:19:20","fid_profil":"47","time":"2023-08-04 19:20:25","user_key":"SmartAWSSapon","C0":"11.84","C1":"0.00","C2":"999.70","C3":"1402.00","C4":"0.00","C5":"19.13","C6":"46.01","C7":"34.36","C8":"0.38","C9":"154.00","C10":"17.89","C11":"21.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.77.220"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 19:30:0
+Masuk mode GPRS
+Sensor 1 = 19.14, Sensor 2 = 46.01, Sensor 3 = 1000.00, Sensor 4 = 0.13, Sensor 5 = 149.00, Sensor 6 = 7.94, Sensor 7 = 0.00, Voltage = 11.82
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 12:30:30 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 488
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=a25utmvgdl2cpthe2d4rlvpm5np7cdag; expires=Fri, 04-Aug-2023 14:30:30 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Ultrasonic","address":"","ispublic":"Public","d_time":11241614,"date_id":"04:19:30","fid_profil":"47","time":"2023-08-04 19:30:30","user_key":"SmartAWSSapon","C0":"11.82","C1":"0.00","C2":"1000.00","C3":"1114.00","C4":"0.00","C5":"19.14","C6":"46.01","C7":"7.94","C8":"0.13","C9":"149.00","C10":"18.00","C11":"22.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.43.132"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 19:40:0
+Masuk mode GPRS
+Sensor 1 = 19.20, Sensor 2 = 47.25, Sensor 3 = 1000.10, Sensor 4 = 0.37, Sensor 5 = 176.00, Sensor 6 = 1.62, Sensor 7 = 0.00, Voltage = 11.82
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 12:40:32 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 488
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=9je1srrrhistptlsjuu71jkbs5peff2m; expires=Fri, 04-Aug-2023 14:40:32 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Ultrasonic","address":"","ispublic":"Public","d_time":11242216,"date_id":"04:19:40","fid_profil":"47","time":"2023-08-04 19:40:32","user_key":"SmartAWSSapon","C0":"11.82","C1":"0.00","C2":"1000.10","C3":"1128.00","C4":"0.00","C5":"19.20","C6":"47.25","C7":"1.62","C8":"0.37","C9":"176.00","C10":"27.67","C11":"35.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.44.175"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 19:50:0
+Masuk mode GPRS
+Sensor 1 = 19.19, Sensor 2 = 49.91, Sensor 3 = 1000.20, Sensor 4 = 0.70, Sensor 5 = 180.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.89
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 20:0:0
+Masuk mode GPRS
+Sensor 1 = 19.22, Sensor 2 = 52.99, Sensor 3 = 1000.20, Sensor 4 = 0.59, Sensor 5 = 183.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.87
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 20:10:0
+Masuk mode GPRS
+Sensor 1 = 19.20, Sensor 2 = 53.66, Sensor 3 = 1000.30, Sensor 4 = 0.52, Sensor 5 = 165.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.86
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 13:10:25 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 483
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=som2s7fhdbv9v896qddc1ruhakbe82bo; expires=Fri, 04-Aug-2023 15:10:25 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Sapon","address":"","ispublic":"Public","d_time":11244009,"date_id":"04:20:10","fid_profil":"47","time":"2023-08-04 20:10:25","user_key":"SmartAWSSapon","C0":"11.86","C1":"0.00","C2":"1000.30","C3":"1432.00","C4":"0.00","C5":"19.20","C6":"53.66","C7":"0.00","C8":"0.52","C9":"165.00","C10":"38.00","C11":"50.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.43.146"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 20:20:0
+Masuk mode GPRS
+Sensor 1 = 19.25, Sensor 2 = 53.26, Sensor 3 = 1000.44, Sensor 4 = 0.61, Sensor 5 = 180.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.74
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 13:20:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 483
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=chhpmsmh3rml7k80q5ple5ukqa069rns; expires=Fri, 04-Aug-2023 15:20:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Sapon","address":"","ispublic":"Public","d_time":11244607,"date_id":"04:20:20","fid_profil":"47","time":"2023-08-04 20:20:23","user_key":"SmartAWSSapon","C0":"11.74","C1":"0.00","C2":"1000.44","C3":"1442.00","C4":"0.00","C5":"19.25","C6":"53.26","C7":"0.00","C8":"0.61","C9":"180.00","C10":"37.89","C11":"47.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.36.244"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 20:30:0
+Masuk mode GPRS
+Sensor 1 = 19.25, Sensor 2 = 54.08, Sensor 3 = 1000.40, Sensor 4 = 0.04, Sensor 5 = 40.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.70
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 13:30:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 482
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=t02l6u65im8pgpk8ma6da9b4fvp42bp1; expires=Fri, 04-Aug-2023 15:30:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Sapon","address":"","ispublic":"Public","d_time":11245206,"date_id":"04:20:30","fid_profil":"47","time":"2023-08-04 20:30:22","user_key":"SmartAWSSapon","C0":"11.70","C1":"0.00","C2":"1000.40","C3":"1674.00","C4":"0.00","C5":"19.25","C6":"54.08","C7":"0.00","C8":"0.04","C9":"40.00","C10":"31.00","C11":"39.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.68.103"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 20:40:0
+Masuk mode GPRS
+Sensor 1 = 19.30, Sensor 2 = 54.80, Sensor 3 = 1000.40, Sensor 4 = 0.16, Sensor 5 = 42.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.72
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 13:40:24 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 482
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=1a0opm2ni7rq4ceb41eln8fo6cujt7br; expires=Fri, 04-Aug-2023 15:40:24 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Sapon","address":"","ispublic":"Public","d_time":11245808,"date_id":"04:20:40","fid_profil":"47","time":"2023-08-04 20:40:24","user_key":"SmartAWSSapon","C0":"11.72","C1":"0.00","C2":"1000.40","C3":"1550.00","C4":"0.00","C5":"19.30","C6":"54.80","C7":"0.00","C8":"0.16","C9":"42.00","C10":"35.00","C11":"44.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.52.150"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 20:50:0
+Masuk mode GPRS
+Sensor 1 = 19.34, Sensor 2 = 54.52, Sensor 3 = 1000.63, Sensor 4 = 0.17, Sensor 5 = 18.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.70
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 21:0:0
+Masuk mode GPRS
+Sensor 1 = 19.37, Sensor 2 = 52.68, Sensor 3 = 1000.70, Sensor 4 = 0.54, Sensor 5 = 168.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.84
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 14:00:26 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 482
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=oim0pg343mmitallkcepceig0a416plf; expires=Fri, 04-Aug-2023 16:00:26 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Sapon","address":"","ispublic":"Public","d_time":11247010,"date_id":"04:21:0","fid_profil":"47","time":"2023-08-04 21:00:26","user_key":"SmartAWSSapon","C0":"11.84","C1":"0.00","C2":"1000.70","C3":"1632.00","C4":"0.00","C5":"19.37","C6":"52.68","C7":"0.00","C8":"0.54","C9":"168.00","C10":"31.00","C11":"40.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.46.102"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 21:10:0
+Masuk mode GPRS
+Sensor 1 = 19.37, Sensor 2 = 53.46, Sensor 3 = 1000.80, Sensor 4 = 0.23, Sensor 5 = 185.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.73
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 21:20:0
+Masuk mode GPRS
+Sensor 1 = 19.39, Sensor 2 = 52.49, Sensor 3 = 1000.80, Sensor 4 = 0.24, Sensor 5 = 133.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.79
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 14:20:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 482
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=9t7sj0vq84tl297d01ds6bh547hgfnjj; expires=Fri, 04-Aug-2023 16:20:23 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Sapon","address":"","ispublic":"Public","d_time":11248207,"date_id":"04:21:20","fid_profil":"47","time":"2023-08-04 21:20:23","user_key":"SmartAWSSapon","C0":"11.79","C1":"0.00","C2":"1000.80","C3":"1340.00","C4":"0.00","C5":"19.39","C6":"52.49","C7":"0.00","C8":"0.24","C9":"133.00","C10":"32.00","C11":"40.00","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.75.84"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 21:30:0
+Masuk mode GPRS
+Sensor 1 = 19.37, Sensor 2 = 52.66, Sensor 3 = 1000.90, Sensor 4 = 0.04, Sensor 5 = 78.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.78
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 14:30:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 481
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=15tjb01duhgrpggi8b1ok4glvt48ntcn; expires=Fri, 04-Aug-2023 16:30:22 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Sapon","address":"","ispublic":"Public","d_time":11248806,"date_id":"04:21:30","fid_profil":"47","time":"2023-08-04 21:30:22","user_key":"SmartAWSSapon","C0":"11.78","C1":"0.00","C2":"1000.90","C3":"1724.00","C4":"0.00","C5":"19.37","C6":"52.66","C7":"0.00","C8":"0.04","C9":"78.00","C10":"28.00","C11":"35.44","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.78.56"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2023-8-4 21:40:0
+Masuk mode GPRS
+Sensor 1 = 19.37, Sensor 2 = 52.65, Sensor 3 = 1000.90, Sensor 4 = 0.44, Sensor 5 = 182.00, Sensor 6 = 0.00, Sensor 7 = 0.00, Voltage = 11.71
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Aug 2023 14:40:25 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 482
+Connection: close
+X-Powered-By: PHP/7.4.33
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=433jcdeidrlcq1n9vkkqgiia5to9a6kl; expires=Fri, 04-Aug-2023 16:40:25 GMT; Max-Age=7200; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+
+{"valid":1,"timezone":"7","name":"AWS Sapon","address":"","ispublic":"Public","d_time":11249409,"date_id":"04:21:40","fid_profil":"47","time":"2023-08-04 21:40:25","user_key":"SmartAWSSapon","C0":"11.71","C1":"0.00","C2":"1000.90","C3":"1658.00","C4":"0.00","C5":"19.37","C6":"52.65","C7":"0.00","C8":"0.44","C9":"182.00","C10":"28.78","C11":"36.44","C12":null,"C13":null,"C14":null,"C15":null,"X1":null,"X2":null,"X3":null,"XA":null,"status":null,"offline":null,"ip":"182.2.74.99"}
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+

@@ -1,16 +1,41 @@
 {
     "folders": [
         {
-            "name": "v.1.3 (Pro)",
-            "path": "../v.1.3 (Pro)"
-        },
-        {
             "name": "uji coba",
             "path": "../../Documents/PlatformIO/Projects/uji coba"
         },
         {
             "name": "AWLMS",
             "path": "../../smart-agri/AWLMS"
+        },
+        {
+            "name": "AWS_Maintanance-ESP32",
+            "path": "../../AWS_Maintanance-ESP32"
+        },
+        {
+            "name": "v.1.3 (Pro)",
+            "path": "../v.1.3 (Pro)"
+        },
+        {
+            "name": "v 2.0 (Pro)",
+            "path": "../v 2.0 (Pro)"
+        },
+        {
+            "name": "ujicoba ftp",
+            "path": "../../Documents/PlatformIO/Projects/ujicoba ftp"
+        },
+        {
+            "name": "sensor21",
+            "path": "../../Documents/PlatformIO/Projects/sensor21"
+        },
+        {
+            "name": "baca NPK",
+            "path": "../../Documents/PlatformIO/Projects/baca NPK"
         }
-    ]
+    ],
+    "settings": {
+        "files.associations": {
+            "*.tpp": "cpp"
+        }
+    }
 }

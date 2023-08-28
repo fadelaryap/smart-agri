@@ -1,0 +1,903 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+    <title>Dashmix - Bootstrap 5 Admin Template &amp; UI Framework</title>
+
+    <meta name="description" content="Dashmix - Bootstrap 5 Admin Template &amp; UI Framework created by pixelcave and published on Themeforest">
+    <meta name="author" content="pixelcave">
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- Open Graph Meta -->
+    <meta property="og:title" content="Dashmix - Bootstrap 5 Admin Template &amp; UI Framework">
+    <meta property="og:site_name" content="Dashmix">
+    <meta property="og:description" content="Dashmix - Bootstrap 5 Admin Template &amp; UI Framework created by pixelcave and published on Themeforest">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+
+    <!-- Icons -->
+    <!-- The following icons can be replaced with your own, they are used by desktop and mobile browsers -->
+    
+    <!-- END Icons -->
+
+    <!-- Stylesheets -->
+    <!-- Fonts and Dashmix framework -->
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"> -->
+    <link rel="stylesheet" id="css-main" href="assets/css/dashmix.min.css">
+    <link rel="stylesheet" id="css-main" href="assets/css/tambahan.css">
+
+    <!-- You can include a specific file from css/themes/ folder to alter the default color theme of the template. eg: -->
+    <!-- <link rel="stylesheet" id="css-theme" href="assets/css/themes/xwork.min.css"> -->
+    <!-- END Stylesheets -->
+  </head>
+  <body>
+    <!-- Page Container -->
+    <!--
+      Available classes for #page-container:
+
+      GENERIC
+
+        'remember-theme'                            Remembers active color theme and dark mode between pages using localStorage when set through
+                                                    - Theme helper buttons [data-toggle="theme"],
+                                                    - Layout helper buttons [data-toggle="layout" data-action="dark_mode_[on/off/toggle]"]
+                                                    - ..and/or Dashmix.layout('dark_mode_[on/off/toggle]')
+
+      SIDEBAR & SIDE OVERLAY
+
+        'sidebar-r'                                 Right Sidebar and left Side Overlay (default is left Sidebar and right Side Overlay)
+        'sidebar-mini'                              Mini hoverable Sidebar (screen width > 991px)
+        'sidebar-o'                                 Visible Sidebar by default (screen width > 991px)
+        'sidebar-o-xs'                              Visible Sidebar by default (screen width < 992px)
+        'sidebar-dark'                              Dark themed sidebar
+
+        'side-overlay-hover'                        Hoverable Side Overlay (screen width > 991px)
+        'side-overlay-o'                            Visible Side Overlay by default
+
+        'enable-page-overlay'                       Enables a visible clickable Page Overlay (closes Side Overlay on click) when Side Overlay opens
+
+        'side-scroll'                               Enables custom scrolling on Sidebar and Side Overlay instead of native scrolling (screen width > 991px)
+
+      HEADER
+
+        ''                                          Static Header if no class is added
+        'page-header-fixed'                         Fixed Header
+
+
+      FOOTER
+
+        ''                                          Static Footer if no class is added
+        'page-footer-fixed'                         Fixed Footer (please have in mind that the footer has a specific height when is fixed)
+
+      HEADER STYLE
+
+        ''                                          Classic Header style if no class is added
+        'page-header-dark'                          Dark themed Header
+        'page-header-glass'                         Light themed Header with transparency by default
+                                                    (absolute position, perfect for light images underneath - solid light background on scroll if the Header is also set as fixed)
+        'page-header-glass page-header-dark'         Dark themed Header with transparency by default
+                                                    (absolute position, perfect for dark images underneath - solid dark background on scroll if the Header is also set as fixed)
+
+      MAIN CONTENT LAYOUT
+
+        ''                                          Full width Main Content if no class is added
+        'main-content-boxed'                        Full width Main Content with a specific maximum width (screen width > 1200px)
+        'main-content-narrow'                       Full width Main Content with a percentage width (screen width > 1200px)
+
+      DARK MODE
+
+        'sidebar-dark page-header-dark dark-mode'   Enable dark mode (light sidebar/header is not supported with dark mode)
+    -->
+    <div id="page-container" class="sidebar-o sidebar-dark enable-page-overlay side-scroll page-header-fixed main-content-narrow">
+      <!-- Side Overlay-->
+      <aside id="side-overlay">
+        <!-- Side Header -->
+        <!-- <div class="bg-image" style="background-image: url('assets/media/various/bg_side_overlay_header.jpg');"> -->
+          
+        
+        <!-- END Side Header -->
+
+        
+        <!-- END Side Content -->
+      </aside>
+      <!-- END Side Overlay -->
+
+      <!-- Sidebar -->
+      <!--
+        Sidebar Mini Mode - Display Helper classes
+
+        Adding 'smini-hide' class to an element will make it invisible (opacity: 0) when the sidebar is in mini mode
+        Adding 'smini-show' class to an element will make it visible (opacity: 1) when the sidebar is in mini mode
+          If you would like to disable the transition animation, make sure to also add the 'no-transition' class to your element
+
+        Adding 'smini-hidden' to an element will hide it when the sidebar is in mini mode
+        Adding 'smini-visible' to an element will show it (display: inline-block) only when the sidebar is in mini mode
+        Adding 'smini-visible-block' to an element will show it (display: block) only when the sidebar is in mini mode
+      -->
+      <nav id="sidebar" aria-label="Main Navigation">
+        <!-- Side Header -->
+        <div class="bg-header-dark">
+          <div class="content-header bg-white-5">
+            <!-- Logo -->
+            <a class="fw-semibold text-white tracking-wide" href="/">
+              <span class="smini-visible">
+                D<span class="opacity-75">x</span>
+              </span>
+              <span class="smini-hidden">
+                Smart<span class="opacity-75">Agri</span>
+              </span>
+            </a>
+            <!-- END Logo -->
+
+            <!-- Options -->
+            <div>
+              <!-- Toggle Sidebar Style -->
+              <!-- Layout API, functionality initialized in Template._uiApiLayout() -->
+              <!-- Class Toggle, functionality initialized in Helpers.dmToggleClass() -->
+              <button type="button" class="btn btn-sm btn-alt-secondary" data-toggle="class-toggle" data-target="#sidebar-style-toggler" data-class="fa-toggle-off fa-toggle-on" onclick="Dashmix.layout('sidebar_style_toggle');Dashmix.layout('header_style_toggle');">
+                <i class="fa fa-toggle-off" id="sidebar-style-toggler"></i>
+              </button>
+              <!-- END Toggle Sidebar Style -->
+
+              <!-- Dark Mode -->
+              <!-- Layout API, functionality initialized in Template._uiApiLayout() -->
+              <button type="button" class="btn btn-sm btn-alt-secondary" data-toggle="class-toggle" data-target="#dark-mode-toggler" data-class="far fa" onclick="Dashmix.layout('dark_mode_toggle');">
+                <i class="far fa-moon" id="dark-mode-toggler"></i>
+              </button>
+              <!-- END Dark Mode -->
+
+              <!-- Close Sidebar, Visible only on mobile screens -->
+              <!-- Layout API, functionality initialized in Template._uiApiLayout() -->
+              <button type="button" class="btn btn-sm btn-alt-secondary d-lg-none" data-toggle="layout" data-action="sidebar_close">
+                <i class="fa fa-times-circle"></i>
+              </button>
+              <!-- END Close Sidebar -->
+            </div>
+            <!-- END Options -->
+          </div>
+        </div>
+        <!-- END Side Header -->
+
+        <!-- Sidebar Scrolling -->
+        <div class="js-sidebar-scroll">
+          <!-- Side Navigation -->
+          <div class="content-side">
+            <ul class="nav-main">
+              <li class="nav-main-item">
+                <a class="nav-main-link" href="/Data">
+                  <i class="nav-main-link-icon fa fa-home"></i>
+                  <span class="nav-main-link-name">Dashboard</span>
+                  <!-- <span class="nav-main-link-badge badge rounded-pill bg-primary">8</span> -->
+                </a>
+              </li>
+              <li class="<li class="nav-main-item">
+                <a class="nav-main-link" href="/Chart">
+                  <i class="nav-main-link-icon fa fa-chart-area"></i>
+                  <span class="nav-main-link-name">Chart</span>
+                  <!-- <span class="nav-main-link-badge badge rounded-pill bg-primary">8</span> -->
+                </a>
+              </li>
+              <li class="nav-main-heading">Settings</li>
+              <li class="nav-main-item">
+                <a class="nav-main-link" href="/Configuration">
+                  <i class="nav-main-link-icon fa fa-wrench"></i>
+                  <span class="nav-main-link-name">Device Configuration</span>
+                  <!-- <span class="nav-main-link-badge badge rounded-pill bg-primary">8</span> -->
+                </a>
+              </li>
+              <li class="nav-main-item">
+                <a class="nav-main-link" href="/Server">
+                  <i class="nav-main-link-icon fa fa-server"></i>
+                  <span class="nav-main-link-name">Server</span>
+                  <!-- <span class="nav-main-link-badge badge rounded-pill bg-primary">8</span> -->
+                </a>
+              </li>
+              <li class="nav-main-item">
+                <a class="nav-main-link active" href="/Sensor1">
+                  <i class="nav-main-link-icon fa fa-calculator"></i>
+                  <span class="nav-main-link-name">Calibration</span>
+                  <!-- <span class="nav-main-link-badge badge rounded-pill bg-primary">8</span> -->
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!-- END Side Navigation -->
+        </div>
+        <!-- END Sidebar Scrolling -->
+      </nav>
+      <!-- END Sidebar -->
+
+      <!-- Header -->
+      <header id="page-header">
+        <!-- Header Content -->
+        <div class="content-header">
+          <!-- Left Section -->
+          <div class="space-x-1">
+            <!-- Toggle Sidebar -->
+            <!-- Layout API, functionality initialized in Template._uiApiLayout()-->
+            <button type="button" class="btn btn-alt-secondary" data-toggle="layout" data-action="sidebar_toggle">
+              <i class="fa fa-fw fa-bars"></i>
+            </button>
+            <!-- END Toggle Sidebar -->
+
+            <!-- Open Search Section -->
+            <!-- Layout API, functionality initialized in Template._uiApiLayout() -->
+            <button type="button" class="btn btn-alt-secondary" data-toggle="layout" data-action="header_search_on">
+              <i class="fa fa-fw opacity-50 fa-search"></i> <span class="ms-1 d-none d-sm-inline-block">Search</span>
+            </button>
+            <!-- END Open Search Section -->
+          </div>
+          <!-- END Left Section -->
+
+          
+        <!-- END Header Content -->
+
+        <!-- Header Search -->
+        
+        <!-- END Header Search -->
+
+        <!-- Header Loader -->
+        <!-- Please check out the Loaders page under Components category to see examples of showing/hiding it -->
+        <div id="page-header-loader" class="overlay-header bg-header-dark">
+          <div class="bg-white-10">
+            <div class="content-header">
+              <div class="w-100 text-center">
+                <i class="fa fa-fw fa-sun fa-spin text-white"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- END Header Loader -->
+      </header>
+      <!-- END Header -->
+
+      <!-- Main Container -->
+      <main id="main-container">
+
+
+
+        <!-- Page Content -->
+        <div class="content content-full content-boxed">
+          <div class="block block-rounded">
+            <div class="block-content">
+              <form action="/cal_sensor" target=""hidden-form">
+                
+
+                <!-- Billing Information -->
+                <h2 class="content-heading pt-0">
+                  <i class="fa fa-fw fa-calculator text-muted me-1"></i> Calibration
+                </h2>
+                  
+                
+                  <select id="multiSelect" class="form-control">
+                      <option value="option0">Pilih Sensor</option>
+                      <option value="option1">Suhu</option>
+                      <option value="option2">Kelembaban Udara</option>
+                      <option value="option3">Tekanan Udara</option>
+                      <option value="option4">Kecepatan Angin</option>
+                      <option value="option5">Arah Angin</option>
+                      <option value="option6">Curah Hujan</option>
+                      <option value="option7">Radiance</option>
+                      <option value="option8">PM 2.5</option>
+                      <option value="option9">PM 10</option>
+                      <!-- Add more options as needed -->
+                  </select></br></br>
+                  <div id="contentOption0" class="content-dropdown"></div>
+                  <div id="contentOption1" class="content-dropdown">
+                    <div class="row push">
+                      <div class="col-lg-4"><h3>Suhu</h3>
+                      </div>
+                      <div class="col-lg-8 col-xl-5">
+                        <div class="mb-4">Ax + C
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row push">
+                    <div class="col-lg-4">
+                      <p class="text-muted">
+                        Nilai A
+                      </p>
+                    </div>
+                    <div class="col-lg-8 col-xl-5">
+                      <div class="mb-4">
+                        <!-- <label class="form-label" for="a_1"></label> -->
+                        <input type="text" class="form-control" name="a1">
+                      </div>
+                      
+                    </div>
+                  </div>
+                  <!-- END Billing Information -->
+  
+                 
+                  <div class="row push">
+                  <div class="col-lg-4">
+                    <p class="text-muted">
+                      Nilai C
+                    </p>
+                  </div>
+                  <div class="col-lg-8 col-xl-5">
+                    <div class="mb-4">
+                    
+                      <!-- <label class="form-label" for="c_1"></label> -->
+                      <input type="text" class="form-control" name="c1">
+                    </div>
+                    
+                  </div>
+                  
+                  
+                </div>
+                <!-- END Billing Information -->
+  
+                <!-- Submit -->
+                <div class="row push">
+                  <div class="col-lg-8 col-xl-5 offset-lg-4">
+                    <div class="mb-4">
+                      <button type="submit" class="btn btn-alt-primary" value="Submit">
+                        <i class="fa fa-floppy-disk me-1"></i> Submit
+                      </button>
+                    
+                    </div>
+                  </div>
+                </div>
+              </div>
+                  <div id="contentOption2" class="content-dropdown">
+                    <div class="row push">
+                      <div class="col-lg-4"><h3>Kelembaban Udara</h3>
+                      </div>
+                      <div class="col-lg-8 col-xl-5">
+                        <div class="mb-4">Ax + C
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row push">
+                      <div class="col-lg-4">
+                        <p class="text-muted">
+                          Nilai A
+                        </p>
+                      </div>
+                      <div class="col-lg-8 col-xl-5">
+                        <div class="mb-4">
+                          <!-- <label class="form-label" for="a_2"></label> -->
+                          <input type="text" class="form-control" name="a2">
+                        </div>
+                        
+                      </div>
+                    </div>
+                    <!-- END Billing Information -->
+                       
+                    <div class="row push">
+                    <div class="col-lg-4">
+                      <p class="text-muted">
+                        Nilai C
+                      </p>
+                    </div>
+                    <div class="col-lg-8 col-xl-5">
+                      <div class="mb-4">
+                      
+                        <!-- <label class="form-label" for="c_2"></label> -->
+                        <input type="text" class="form-control" name="c2">
+                      </div>
+                      
+                    </div>
+                    
+                    
+                  </div>
+                  <!-- END Billing Information -->
+    
+                  <!-- Submit -->
+                  <div class="row push">
+                    <div class="col-lg-8 col-xl-5 offset-lg-4">
+                      <div class="mb-4">
+                        <button type="submit" class="btn btn-alt-primary" value="Submit">
+                          <i class="fa fa-floppy-disk me-1"></i> Submit
+                        </button>
+                      
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+
+                  <!-- --------Sensor 3------ -->
+                  <div id="contentOption3" class="content-dropdown">
+                    <div class="row push">
+                      <div class="col-lg-4"><h3>Tekanan Udara</h3>
+                      </div>
+                      <div class="col-lg-8 col-xl-5">
+                        <div class="mb-4">Ax + C
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row push">
+                      <div class="col-lg-4">
+                        <p class="text-muted">
+                          Nilai A
+                        </p>
+                      </div>
+                      <div class="col-lg-8 col-xl-5">
+                        <div class="mb-4">
+                          <!-- <label class="form-label" for="a_3"></label> -->
+                          <input type="text" class="form-control" name="a3">
+                        </div>
+                        
+                      </div>
+                    </div>
+                    <!-- END Billing Information -->
+                       
+                    <div class="row push">
+                    <div class="col-lg-4">
+                      <p class="text-muted">
+                        Nilai C
+                      </p>
+                    </div>
+                    <div class="col-lg-8 col-xl-5">
+                      <div class="mb-4">
+                      
+                        <!-- <label class="form-label" for="c_3"></label> -->
+                        <input type="text" class="form-control" name="c3">
+                      </div>
+                      
+                    </div>
+                    
+                    
+                  </div>
+                  <!-- END Billing Information -->
+    
+                  <!-- Submit -->
+                  <div class="row push">
+                    <div class="col-lg-8 col-xl-5 offset-lg-4">
+                      <div class="mb-4">
+                        <button type="submit" class="btn btn-alt-primary" value="Submit">
+                          <i class="fa fa-floppy-disk me-1"></i> Submit
+                        </button>
+                      
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- --------Sensor 4------ -->
+                <div id="contentOption4" class="content-dropdown">
+                  <div class="row push">
+                    <div class="col-lg-4"><h3>Kecepatan Angin</h3>
+                    </div>
+                    <div class="col-lg-8 col-xl-5">
+                      <div class="mb-4">Ax + C
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row push">
+                    <div class="col-lg-4">
+                      <p class="text-muted">
+                        Nilai A
+                      </p>
+                    </div>
+                    <div class="col-lg-8 col-xl-5">
+                      <div class="mb-4">
+                        <!-- <label class="form-label" for="a_4"></label> -->
+                        <input type="text" class="form-control" name="a4">
+                      </div>
+                      
+                    </div>
+                  </div>
+                    <!-- END Billing Information -->
+                      
+                    <div class="row push">
+                    <div class="col-lg-4">
+                      <p class="text-muted">
+                        Nilai C
+                      </p>
+                    </div>
+                    <div class="col-lg-8 col-xl-5">
+                      <div class="mb-4">
+                      
+                        <!-- <label class="form-label" for="c_4"></label> -->
+                        <input type="text" class="form-control" name="c4">
+                      </div>
+                      
+                    </div>
+                    
+                    
+                  </div>
+                  <!-- END Billing Information -->
+    
+                  <!-- Submit -->
+                  <div class="row push">
+                    <div class="col-lg-8 col-xl-5 offset-lg-4">
+                      <div class="mb-4">
+                        <button type="submit" class="btn btn-alt-primary" value="Submit">
+                          <i class="fa fa-floppy-disk me-1"></i> Submit
+                        </button>
+                      
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <!-- Sensor 4 Selesai -->
+
+                <!-- --------Sensor 5------ -->
+                <div id="contentOption5" class="content-dropdown">
+                  <div class="row push">
+                    <div class="col-lg-4"><h3>Arah Angin</h3>
+                    </div>
+                    <div class="col-lg-8 col-xl-5">
+                      <div class="mb-4">Ax + C
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row push">
+                    <div class="col-lg-4">
+                      <p class="text-muted">
+                        Nilai A
+                      </p>
+                    </div>
+                    <div class="col-lg-8 col-xl-5">
+                      <div class="mb-4">
+                        <!-- <label class="form-label" for="a_5"></label> -->
+                        <input type="text" class="form-control" name="a5">
+                      </div>
+                      
+                    </div>
+                  </div>
+                    <!-- END Billing Information -->
+                      
+                    <div class="row push">
+                    <div class="col-lg-4">
+                      <p class="text-muted">
+                        Nilai C
+                      </p>
+                    </div>
+                    <div class="col-lg-8 col-xl-5">
+                      <div class="mb-4">
+                      
+                        <!-- <label class="form-label" for="c_5"></label> -->
+                        <input type="text" class="form-control" name="c5">
+                      </div>
+                      
+                    </div>
+                    
+                    
+                  </div>
+                  <!-- END Billing Information -->
+    
+                  <!-- Submit -->
+                  <div class="row push">
+                    <div class="col-lg-8 col-xl-5 offset-lg-4">
+                      <div class="mb-4">
+                        <button type="submit" class="btn btn-alt-primary" value="Submit">
+                          <i class="fa fa-floppy-disk me-1"></i> Submit
+                        </button>
+                      
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              <!-- Sensor 5 Selesai -->
+
+              <!-- --------Sensor 6------ -->
+              <div id="contentOption6" class="content-dropdown">
+                <div class="row push">
+                  <div class="col-lg-4"><h3>Curah Hujan</h3>
+                  </div>
+                  <div class="col-lg-8 col-xl-5">
+                    <div class="mb-4">Ax + C
+                    </div>
+                  </div>
+                </div>
+                <div class="row push">
+                  <div class="col-lg-4">
+                    <p class="text-muted">
+                      Nilai A
+                    </p>
+                  </div>
+                  <div class="col-lg-8 col-xl-5">
+                    <div class="mb-4">
+                      <!-- <label class="form-label" for="a_6"></label> -->
+                      <input type="text" class="form-control" name="a6">
+                    </div>
+                    
+                  </div>
+                </div>
+                  <!-- END Billing Information -->
+                    
+                  <div class="row push">
+                  <div class="col-lg-4">
+                    <p class="text-muted">
+                      Nilai C
+                    </p>
+                  </div>
+                  <div class="col-lg-8 col-xl-5">
+                    <div class="mb-4">
+                    
+                      <!-- <label class="form-label" for="c_6"></label> -->
+                      <input type="text" class="form-control" name="c6">
+                    </div>
+                    
+                  </div>
+                  
+                  
+                </div>
+                <!-- END Billing Information -->
+  
+                <!-- Submit -->
+                <div class="row push">
+                  <div class="col-lg-8 col-xl-5 offset-lg-4">
+                    <div class="mb-4">
+                      <button type="submit" class="btn btn-alt-primary" value="Submit">
+                        <i class="fa fa-floppy-disk me-1"></i> Submit
+                      </button>
+                    
+                    </div>
+                  </div>
+                </div>
+              </div>
+            <!-- Sensor 6 Selesai -->
+
+            <!-- --------Sensor 7------ -->
+            <div id="contentOption7" class="content-dropdown">
+              <div class="row push">
+                <div class="col-lg-4"><h3>Radiance</h3>
+                </div>
+                <div class="col-lg-8 col-xl-5">
+                  <div class="mb-4">Ax + C
+                  </div>
+                </div>
+              </div>
+              <div class="row push">
+                <div class="col-lg-4">
+                  <p class="text-muted">
+                    Nilai A
+                  </p>
+                </div>
+                <div class="col-lg-8 col-xl-5">
+                  <div class="mb-4">
+                    <!-- <label class="form-label" for="a_7"></label> -->
+                    <input type="text" class="form-control" name="a7">
+                  </div>
+                  
+                </div>
+              </div>
+                <!-- END Billing Information -->
+                  
+                <div class="row push">
+                <div class="col-lg-4">
+                  <p class="text-muted">
+                    Nilai C
+                  </p>
+                </div>
+                <div class="col-lg-8 col-xl-5">
+                  <div class="mb-4">
+                  
+                    <!-- <label class="form-label" for="c_7"></label> -->
+                    <input type="text" class="form-control" name="c7">
+                  </div>
+                  
+                </div>
+                
+                
+              </div>
+              <!-- END Billing Information -->
+
+              <!-- Submit -->
+              <div class="row push">
+                <div class="col-lg-8 col-xl-5 offset-lg-4">
+                  <div class="mb-4">
+                    <button type="submit" class="btn btn-alt-primary" value="Submit">
+                      <i class="fa fa-floppy-disk me-1"></i> Submit
+                    </button>
+                  
+                  </div>
+                </div>
+              </div>
+            </div>
+          <!-- Sensor 7 Selesai -->
+
+          <!-- --------Sensor 8------ -->
+          <div id="contentOption8" class="content-dropdown">
+            <div class="row push">
+              <div class="col-lg-4"><h3>PM 2.5</h3>
+              </div>
+              <div class="col-lg-8 col-xl-5">
+                <div class="mb-4">Ax + C
+                </div>
+              </div>
+            </div>
+            <div class="row push">
+              <div class="col-lg-4">
+                <p class="text-muted">
+                  Nilai A
+                </p>
+              </div>
+              <div class="col-lg-8 col-xl-5">
+                <div class="mb-4">
+                  <!-- <label class="form-label" for="a_8"></label> -->
+                  <input type="text" class="form-control" name="a8">
+                </div>
+                
+              </div>
+            </div>
+              <!-- END Billing Information -->
+                
+              <div class="row push">
+              <div class="col-lg-4">
+                <p class="text-muted">
+                  Nilai C
+                </p>
+              </div>
+              <div class="col-lg-8 col-xl-5">
+                <div class="mb-4">
+                
+                  <!-- <label class="form-label" for="c_8"></label> -->
+                  <input type="text" class="form-control" name="c8">
+                </div>
+                
+              </div>
+              
+              
+            </div>
+            <!-- END Billing Information -->
+
+            <!-- Submit -->
+            <div class="row push">
+              <div class="col-lg-8 col-xl-5 offset-lg-4">
+                <div class="mb-4">
+                  <button type="submit" class="btn btn-alt-primary" value="Submit">
+                    <i class="fa fa-floppy-disk me-1"></i> Submit
+                  </button>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        <!-- Sensor 8 Selesai -->
+
+        <!-- --------Sensor 9------ -->
+        <div id="contentOption9" class="content-dropdown">
+          <div class="row push">
+            <div class="col-lg-4"><h3>PM 10</h3>
+            </div>
+            <div class="col-lg-8 col-xl-5">
+              <div class="mb-4">Ax + C
+              </div>
+            </div>
+          </div>
+          <div class="row push">
+            <div class="col-lg-4">
+              <p class="text-muted">
+                Nilai A
+              </p>
+            </div>
+            <div class="col-lg-8 col-xl-5">
+              <div class="mb-4">
+                <!-- <label class="form-label" for="a_9"></label> -->
+                <input type="text" class="form-control" name="a9">
+              </div>
+              
+            </div>
+          </div>
+            <!-- END Billing Information -->
+              
+            <div class="row push">
+            <div class="col-lg-4">
+              <p class="text-muted">
+                Nilai C
+              </p>
+            </div>
+            <div class="col-lg-8 col-xl-5">
+              <div class="mb-4">
+              
+                <!-- <label class="form-label" for="c_9"></label> -->
+                <input type="text" class="form-control" name="c9">
+              </div>
+              
+            </div>
+            
+            
+          </div>
+          <!-- END Billing Information -->
+
+          <!-- Submit -->
+          <div class="row push">
+            <div class="col-lg-8 col-xl-5 offset-lg-4">
+              <div class="mb-4">
+                <button type="submit" class="btn btn-alt-primary" value="Submit">
+                  <i class="fa fa-floppy-disk me-1"></i> Submit
+                </button>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+      <!-- Sensor 9 Selesai -->
+                
+
+            </div>
+          </div>
+        </div>
+        <!-- END Page Content -->
+
+
+        
+      </main>
+      <!-- END Main Container -->
+
+      <!-- Footer -->
+      <footer id="page-footer" class="bg-body-light">
+        <div class="content py-0">
+          <div class="row fs-sm">
+            <div class="col-sm-6 order-sm-2 mb-1 mb-sm-0 text-center text-sm-end">
+              PT CP Inovasi
+            </div>
+            <div class="col-sm-6 order-sm-1 text-center text-sm-start">
+              <!-- <a class="fw-semibold" href="https://1.envato.market/r6y" target="_blank">Smart Agri</a> &copy; <span data-toggle="year-copy"></span> -->
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- END Footer -->
+    </div>
+    <!-- END Page Container -->
+
+    <!--
+      Dashmix JS
+
+      Core libraries and functionality
+      webpack is putting everything together at assets/_js/main/app.js
+    -->
+    <script src="assets/js/dashmix.app.min.js"></script>
+    <script>      
+      const selectElement = document.getElementById('multiSelect');
+const contentOption1 = document.getElementById('contentOption1');
+const contentOption2 = document.getElementById('contentOption2');
+const contentOption3 = document.getElementById('contentOption3');
+const contentOption4 = document.getElementById('contentOption4');
+const contentOption5 = document.getElementById('contentOption5');
+const contentOption6 = document.getElementById('contentOption6');
+const contentOption7 = document.getElementById('contentOption7');
+const contentOption8 = document.getElementById('contentOption8');
+const contentOption9 = document.getElementById('contentOption9');
+
+selectElement.addEventListener('change', () => {
+    // Hide all content divs when the selection changes
+    contentOption1.style.display = 'none';
+    contentOption2.style.display = 'none';
+    contentOption3.style.display = 'none';
+    contentOption4.style.display = 'none';
+    contentOption5.style.display = 'none';
+    contentOption6.style.display = 'none';
+    contentOption7.style.display = 'none';
+    contentOption8.style.display = 'none';
+    contentOption9.style.display = 'none';
+
+    // Get selected options and show corresponding content divs
+    for (let i = 0; i < selectElement.options.length; i++) {
+        const option = selectElement.options[i];
+        if (option.selected) {
+            const selectedOptionValue = option.value;
+            if (selectedOptionValue === 'option1') {
+                contentOption1.style.display = 'block';
+            } else if (selectedOptionValue === 'option2') {
+                contentOption2.style.display = 'block';
+            } else if (selectedOptionValue === 'option3') {
+                contentOption3.style.display = 'block';
+            } else if (selectedOptionValue === 'option4') {
+                contentOption4.style.display = 'block';
+            } else if (selectedOptionValue === 'option5') {
+                contentOption5.style.display = 'block';
+            } else if (selectedOptionValue === 'option6') {
+                contentOption6.style.display = 'block';
+            } else if (selectedOptionValue === 'option7') {
+                contentOption7.style.display = 'block';
+            } else if (selectedOptionValue === 'option8') {
+                contentOption8.style.display = 'block';
+            } else if (selectedOptionValue === 'option9') {
+                contentOption9.style.display = 'block';
+            }
+        }
+    }
+});
+      
+    </script>
+  </body>
+</html>
