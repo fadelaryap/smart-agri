@@ -1,0 +1,5993 @@
+2022-12-19 18:10:0
+Masuk mode GPRS
+Suhu Udara = 64.53, Kelembaban Udara = 24.53, Luminance = 2.88, Lengas Tanah 1 = 27.67, Suhu Tanah 1 = 26.29, Lengas Tanah 2 = 32.03, Suhu Tanah 2 = 26.31, Lengas Tanah 3 = 30.81, Suhu Tanah 3 = 26.42, pH = 6.40, Nitrogen = 1.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 11:10:21 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 64.53
+C1: 24.53
+C2: 2.88
+C3: 27.67
+C4: 26.29
+C5: 32.03
+C6: 26.31
+C7: 30.81
+C8: 26.42
+C9: 6.40
+C10: 1.00
+C11: 0.00
+C12: 0.00
+C13: 12.34
+C14: 2644.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 18:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Berhasil Connect ke server lagi
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 18:40:0
+Masuk mode GPRS
+Suhu Udara = 68.27, Kelembaban Udara = 24.36, Luminance = 0.00, Lengas Tanah 1 = 30.73, Suhu Tanah 1 = 26.29, Lengas Tanah 2 = 36.98, Suhu Tanah 2 = 26.29, Lengas Tanah 3 = 28.64, Suhu Tanah 3 = 26.35, pH = 7.30, Nitrogen = 1.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 18:50:0
+Masuk mode GPRS
+Suhu Udara = 70.84, Kelembaban Udara = 24.27, Luminance = 0.00, Lengas Tanah 1 = 30.30, Suhu Tanah 1 = 26.22, Lengas Tanah 2 = 36.62, Suhu Tanah 2 = 26.22, Lengas Tanah 3 = 28.69, Suhu Tanah 3 = 26.29, pH = 7.30, Nitrogen = 1.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 11:50:21 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 70.84
+C1: 24.27
+C2: 0.00
+C3: 30.30
+C4: 26.22
+C5: 36.62
+C6: 26.22
+C7: 28.69
+C8: 26.29
+C9: 7.30
+C10: 1.00
+C11: 0.00
+C12: 0.00
+C13: 12.32
+C14: 3086.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 18:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 19:10:0
+Masuk mode GPRS
+Suhu Udara = 5780.98, Kelembaban Udara = 3.56, Luminance = 0.00, Lengas Tanah 1 = 32.43, Suhu Tanah 1 = 26.19, Lengas Tanah 2 = 35.36, Suhu Tanah 2 = 26.19, Lengas Tanah 3 = 31.08, Suhu Tanah 3 = 26.19, pH = 6.20, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 12:10:22 GMT
+Content-Type: text/html
+Content-Length: 245
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 5780.98
+C1: 3.56
+C2: 0.00
+C3: 32.43
+C4: 26.19
+C5: 35.36
+C6: 26.19
+C7: 31.08
+C8: 26.19
+C9: 6.20
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.31
+C14: 3116.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 19:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 19:20:0
+Masuk mode GPRS
+Suhu Udara = 24.00, Kelembaban Udara = 74.40, Luminance = 0.00, Lengas Tanah 1 = 33.27, Suhu Tanah 1 = 26.19, Lengas Tanah 2 = 35.29, Suhu Tanah 2 = 26.19, Lengas Tanah 3 = 30.95, Suhu Tanah 3 = 26.19, pH = 6.20, Nitrogen = 35.00, Phospor = 48.00, Kalium = 119.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 12:20:21 GMT
+Content-Type: text/html
+Content-Length: 248
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.00
+C1: 74.40
+C2: 0.00
+C3: 33.27
+C4: 26.19
+C5: 35.29
+C6: 26.19
+C7: 30.95
+C8: 26.19
+C9: 6.20
+C10: 35.00
+C11: 48.00
+C12: 119.00
+C13: 12.30
+C14: 3166.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 19:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 19:30:0
+Masuk mode GPRS
+Suhu Udara = 23.91, Kelembaban Udara = 75.38, Luminance = 0.00, Lengas Tanah 1 = 32.70, Suhu Tanah 1 = 26.17, Lengas Tanah 2 = 35.11, Suhu Tanah 2 = 26.15, Lengas Tanah 3 = 30.93, Suhu Tanah 3 = 26.14, pH = 5.90, Nitrogen = 35.00, Phospor = 48.00, Kalium = 119.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 12:30:22 GMT
+Content-Type: text/html
+Content-Length: 248
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.91
+C1: 75.38
+C2: 0.00
+C3: 32.70
+C4: 26.17
+C5: 35.11
+C6: 26.15
+C7: 30.93
+C8: 26.14
+C9: 5.90
+C10: 35.00
+C11: 48.00
+C12: 119.00
+C13: 12.31
+C14: 3064.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 19:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 19:40:0
+Masuk mode GPRS
+Suhu Udara = 23.82, Kelembaban Udara = 76.00, Luminance = 0.00, Lengas Tanah 1 = 31.55, Suhu Tanah 1 = 26.12, Lengas Tanah 2 = 34.67, Suhu Tanah 2 = 26.10, Lengas Tanah 3 = 30.93, Suhu Tanah 3 = 26.12, pH = 6.20, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 12:40:23 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.82
+C1: 76.00
+C2: 0.00
+C3: 31.55
+C4: 26.12
+C5: 34.67
+C6: 26.10
+C7: 30.93
+C8: 26.12
+C9: 6.20
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.32
+C14: 2644.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 19:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 19:50:0
+Masuk mode GPRS
+Suhu Udara = 133.24, Kelembaban Udara = 88.80, Luminance = 0.00, Lengas Tanah 1 = 30.90, Suhu Tanah 1 = 26.10, Lengas Tanah 2 = 33.75, Suhu Tanah 2 = 26.10, Lengas Tanah 3 = 25.45, Suhu Tanah 3 = 26.10, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 20:0:0
+Masuk mode GPRS
+Suhu Udara = 23.73, Kelembaban Udara = 76.36, Luminance = 0.00, Lengas Tanah 1 = 30.05, Suhu Tanah 1 = 26.09, Lengas Tanah 2 = 32.55, Suhu Tanah 2 = 26.09, Lengas Tanah 3 = 26.17, Suhu Tanah 3 = 26.09, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 13:00:32 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.73
+C1: 76.36
+C2: 0.00
+C3: 30.05
+C4: 26.09
+C5: 32.55
+C6: 26.09
+C7: 26.17
+C8: 26.09
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.33
+C14: 2536.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 20:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+204-1-1 0:10:0
+Masuk mode GPRS
+Suhu Udara = 23.64, Kelembaban Udara = 76.71, Luminance = 0.00, Lengas Tanah 1 = 29.83, Suhu Tanah 1 = 26.09, Lengas Tanah 2 = 32.77, Suhu Tanah 2 = 26.09, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 26.08, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 13:17:05 GMT
+Content-Type: text/html
+Content-Length: 245
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.64
+C1: 76.71
+C2: 0.00
+C3: 29.83
+C4: 26.09
+C5: 32.77
+C6: 26.09
+C7: 24.42
+C8: 26.08
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.31
+C14: 2480.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 20:17:05
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 20:30:0
+Masuk mode GPRS
+Suhu Udara = 23.56, Kelembaban Udara = 76.53, Luminance = 0.00, Lengas Tanah 1 = 29.60, Suhu Tanah 1 = 26.00, Lengas Tanah 2 = 32.64, Suhu Tanah 2 = 25.99, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 25.99, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 20:40:0
+Masuk mode GPRS
+Suhu Udara = 23.38, Kelembaban Udara = 77.96, Luminance = 0.00, Lengas Tanah 1 = 29.56, Suhu Tanah 1 = 25.99, Lengas Tanah 2 = 32.57, Suhu Tanah 2 = 25.99, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 25.98, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 13:40:26 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.38
+C1: 77.96
+C2: 0.00
+C3: 29.56
+C4: 25.99
+C5: 32.57
+C6: 25.99
+C7: 24.42
+C8: 25.98
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.31
+C14: 2480.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 20:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 20:50:0
+Masuk mode GPRS
+Suhu Udara = 23.29, Kelembaban Udara = 79.02, Luminance = 0.00, Lengas Tanah 1 = 29.35, Suhu Tanah 1 = 25.94, Lengas Tanah 2 = 32.50, Suhu Tanah 2 = 25.93, Lengas Tanah 3 = 24.45, Suhu Tanah 3 = 25.92, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 13:50:25 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.29
+C1: 79.02
+C2: 0.00
+C3: 29.35
+C4: 25.94
+C5: 32.50
+C6: 25.93
+C7: 24.45
+C8: 25.92
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.31
+C14: 2606.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 20:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 21:0:0
+Masuk mode GPRS
+Suhu Udara = 23.20, Kelembaban Udara = 79.38, Luminance = 0.00, Lengas Tanah 1 = 29.22, Suhu Tanah 1 = 25.89, Lengas Tanah 2 = 32.41, Suhu Tanah 2 = 25.89, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.89, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 14:00:23 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.20
+C1: 79.38
+C2: 0.00
+C3: 29.22
+C4: 25.89
+C5: 32.41
+C6: 25.89
+C7: 24.79
+C8: 25.89
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.30
+C14: 2592.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 21:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 21:10:0
+Masuk mode GPRS
+Suhu Udara = 23.11, Kelembaban Udara = 78.04, Luminance = 0.00, Lengas Tanah 1 = 29.13, Suhu Tanah 1 = 25.85, Lengas Tanah 2 = 32.39, Suhu Tanah 2 = 25.83, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.82, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 21:20:0
+Masuk mode GPRS
+Suhu Udara = 23.11, Kelembaban Udara = 77.07, Luminance = 0.00, Lengas Tanah 1 = 28.98, Suhu Tanah 1 = 25.79, Lengas Tanah 2 = 32.37, Suhu Tanah 2 = 25.79, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.75, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 21:30:0
+Masuk mode GPRS
+Suhu Udara = 23.11, Kelembaban Udara = 76.98, Luminance = 0.00, Lengas Tanah 1 = 28.98, Suhu Tanah 1 = 25.70, Lengas Tanah 2 = 32.28, Suhu Tanah 2 = 25.71, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.69, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 14:30:28 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.11
+C1: 76.98
+C2: 0.00
+C3: 28.98
+C4: 25.70
+C5: 32.28
+C6: 25.71
+C7: 24.79
+C8: 25.69
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.31
+C14: 2490.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 21:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 21:40:0
+Masuk mode GPRS
+Suhu Udara = 23.11, Kelembaban Udara = 77.16, Luminance = 0.00, Lengas Tanah 1 = 28.81, Suhu Tanah 1 = 25.67, Lengas Tanah 2 = 32.23, Suhu Tanah 2 = 25.69, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.62, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 14:40:27 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.11
+C1: 77.16
+C2: 0.00
+C3: 28.81
+C4: 25.67
+C5: 32.23
+C6: 25.69
+C7: 24.79
+C8: 25.62
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.30
+C14: 2470.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 21:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 21:50:0
+Masuk mode GPRS
+Suhu Udara = 23.02, Kelembaban Udara = 77.51, Luminance = 0.00, Lengas Tanah 1 = 28.79, Suhu Tanah 1 = 25.60, Lengas Tanah 2 = 32.23, Suhu Tanah 2 = 25.63, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.59, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 14:50:25 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.02
+C1: 77.51
+C2: 0.00
+C3: 28.79
+C4: 25.60
+C5: 32.23
+C6: 25.63
+C7: 24.79
+C8: 25.59
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.30
+C14: 2478.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 21:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 22:0:0
+Masuk mode GPRS
+Suhu Udara = 22.93, Kelembaban Udara = 79.11, Luminance = 0.00, Lengas Tanah 1 = 28.79, Suhu Tanah 1 = 25.59, Lengas Tanah 2 = 32.23, Suhu Tanah 2 = 25.60, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.59, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 22:10:0
+Masuk mode GPRS
+Suhu Udara = 22.84, Kelembaban Udara = 78.67, Luminance = 0.00, Lengas Tanah 1 = 28.76, Suhu Tanah 1 = 25.59, Lengas Tanah 2 = 32.20, Suhu Tanah 2 = 25.59, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.59, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 15:10:27 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.84
+C1: 78.67
+C2: 0.00
+C3: 28.76
+C4: 25.59
+C5: 32.20
+C6: 25.59
+C7: 24.79
+C8: 25.59
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.30
+C14: 2598.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 22:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 22:20:0
+Masuk mode GPRS
+Suhu Udara = 22.76, Kelembaban Udara = 79.64, Luminance = 0.00, Lengas Tanah 1 = 28.62, Suhu Tanah 1 = 25.56, Lengas Tanah 2 = 32.16, Suhu Tanah 2 = 25.59, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.54, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 15:20:26 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.76
+C1: 79.64
+C2: 0.00
+C3: 28.62
+C4: 25.56
+C5: 32.16
+C6: 25.59
+C7: 24.79
+C8: 25.54
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.30
+C14: 2552.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 22:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 22:30:0
+Masuk mode GPRS
+Suhu Udara = 22.67, Kelembaban Udara = 80.53, Luminance = 0.00, Lengas Tanah 1 = 28.62, Suhu Tanah 1 = 25.51, Lengas Tanah 2 = 32.16, Suhu Tanah 2 = 25.55, Lengas Tanah 3 = 24.76, Suhu Tanah 3 = 25.51, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 15:30:25 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.67
+C1: 80.53
+C2: 0.00
+C3: 28.62
+C4: 25.51
+C5: 32.16
+C6: 25.55
+C7: 24.76
+C8: 25.51
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.30
+C14: 2598.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 22:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 22:40:0
+Masuk mode GPRS
+Suhu Udara = 22.58, Kelembaban Udara = 81.16, Luminance = 0.00, Lengas Tanah 1 = 28.62, Suhu Tanah 1 = 25.50, Lengas Tanah 2 = 32.05, Suhu Tanah 2 = 25.52, Lengas Tanah 3 = 24.74, Suhu Tanah 3 = 25.50, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 15:40:29 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.58
+C1: 81.16
+C2: 0.00
+C3: 28.62
+C4: 25.50
+C5: 32.05
+C6: 25.52
+C7: 24.74
+C8: 25.50
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.30
+C14: 2582.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 22:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 22:50:0
+Masuk mode GPRS
+Suhu Udara = 22.49, Kelembaban Udara = 81.42, Luminance = 0.00, Lengas Tanah 1 = 28.57, Suhu Tanah 1 = 25.49, Lengas Tanah 2 = 32.03, Suhu Tanah 2 = 25.49, Lengas Tanah 3 = 24.69, Suhu Tanah 3 = 25.48, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 15:50:27 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.49
+C1: 81.42
+C2: 0.00
+C3: 28.57
+C4: 25.49
+C5: 32.03
+C6: 25.49
+C7: 24.69
+C8: 25.48
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.30
+C14: 2614.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 22:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 23:0:0
+Masuk mode GPRS
+Suhu Udara = 22.40, Kelembaban Udara = 81.24, Luminance = 0.00, Lengas Tanah 1 = 28.50, Suhu Tanah 1 = 25.43, Lengas Tanah 2 = 32.03, Suhu Tanah 2 = 25.48, Lengas Tanah 3 = 24.65, Suhu Tanah 3 = 25.42, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 16:00:24 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.40
+C1: 81.24
+C2: 0.00
+C3: 28.50
+C4: 25.43
+C5: 32.03
+C6: 25.48
+C7: 24.65
+C8: 25.42
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.30
+C14: 2578.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 23:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 23:10:0
+Masuk mode GPRS
+Suhu Udara = 22.49, Kelembaban Udara = 80.71, Luminance = 0.00, Lengas Tanah 1 = 28.45, Suhu Tanah 1 = 25.39, Lengas Tanah 2 = 32.03, Suhu Tanah 2 = 25.42, Lengas Tanah 3 = 24.76, Suhu Tanah 3 = 25.39, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 16:10:32 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.49
+C1: 80.71
+C2: 0.00
+C3: 28.45
+C4: 25.39
+C5: 32.03
+C6: 25.42
+C7: 24.76
+C8: 25.39
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.29
+C14: 2488.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 23:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 23:20:0
+Masuk mode GPRS
+Suhu Udara = 22.49, Kelembaban Udara = 80.71, Luminance = 0.00, Lengas Tanah 1 = 28.45, Suhu Tanah 1 = 25.39, Lengas Tanah 2 = 32.03, Suhu Tanah 2 = 25.39, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.39, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 16:20:30 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.49
+C1: 80.71
+C2: 0.00
+C3: 28.45
+C4: 25.39
+C5: 32.03
+C6: 25.39
+C7: 24.79
+C8: 25.39
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.29
+C14: 2526.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 23:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 23:30:0
+Masuk mode GPRS
+Suhu Udara = 22.40, Kelembaban Udara = 81.60, Luminance = 0.00, Lengas Tanah 1 = 28.45, Suhu Tanah 1 = 25.33, Lengas Tanah 2 = 32.03, Suhu Tanah 2 = 25.39, Lengas Tanah 3 = 24.74, Suhu Tanah 3 = 25.33, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 16:30:25 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.40
+C1: 81.60
+C2: 0.00
+C3: 28.45
+C4: 25.33
+C5: 32.03
+C6: 25.39
+C7: 24.74
+C8: 25.33
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.29
+C14: 2510.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 23:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 23:40:0
+Masuk mode GPRS
+Suhu Udara = 22.31, Kelembaban Udara = 82.13, Luminance = 0.00, Lengas Tanah 1 = 28.45, Suhu Tanah 1 = 25.29, Lengas Tanah 2 = 32.03, Suhu Tanah 2 = 25.33, Lengas Tanah 3 = 24.79, Suhu Tanah 3 = 25.32, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 16:40:24 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.31
+C1: 82.13
+C2: 0.00
+C3: 28.45
+C4: 25.29
+C5: 32.03
+C6: 25.33
+C7: 24.79
+C8: 25.32
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.29
+C14: 2496.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 23:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-19 23:50:0
+Masuk mode GPRS
+Suhu Udara = 22.22, Kelembaban Udara = 82.40, Luminance = 0.00, Lengas Tanah 1 = 28.43, Suhu Tanah 1 = 25.29, Lengas Tanah 2 = 31.99, Suhu Tanah 2 = 25.30, Lengas Tanah 3 = 24.77, Suhu Tanah 3 = 25.29, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 16:50:30 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.22
+C1: 82.40
+C2: 0.00
+C3: 28.43
+C4: 25.29
+C5: 31.99
+C6: 25.30
+C7: 24.77
+C8: 25.29
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.29
+C14: 2576.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-19 23:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 0:0:0
+Masuk mode GPRS
+Suhu Udara = 24.96, Kelembaban Udara = 93.40, Luminance = 8.91, Lengas Tanah 1 = 28.38, Suhu Tanah 1 = 25.28, Lengas Tanah 2 = 31.97, Suhu Tanah 2 = 25.29, Lengas Tanah 3 = 24.67, Suhu Tanah 3 = 25.28, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 17:00:25 GMT
+Content-Type: text/html
+Content-Length: 242
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.96
+C1: 93.40
+C2: 8.91
+C3: 28.38
+C4: 25.28
+C5: 31.97
+C6: 25.29
+C7: 24.67
+C8: 25.28
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.29
+C14: 2566.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 0:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 0:10:0
+Masuk mode GPRS
+Suhu Udara = 24.90, Kelembaban Udara = 93.70, Luminance = 8.91, Lengas Tanah 1 = 28.33, Suhu Tanah 1 = 25.22, Lengas Tanah 2 = 31.97, Suhu Tanah 2 = 25.29, Lengas Tanah 3 = 24.65, Suhu Tanah 3 = 25.22, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 17:10:27 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.90
+C1: 93.70
+C2: 8.91
+C3: 28.33
+C4: 25.22
+C5: 31.97
+C6: 25.29
+C7: 24.65
+C8: 25.22
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.29
+C14: 2496.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 0:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 0:20:0
+Masuk mode GPRS
+Suhu Udara = 24.90, Kelembaban Udara = 92.60, Luminance = 8.91, Lengas Tanah 1 = 28.28, Suhu Tanah 1 = 25.19, Lengas Tanah 2 = 31.95, Suhu Tanah 2 = 25.22, Lengas Tanah 3 = 24.63, Suhu Tanah 3 = 25.19, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 0:30:0
+Masuk mode GPRS
+Suhu Udara = 24.86, Kelembaban Udara = 92.60, Luminance = 8.91, Lengas Tanah 1 = 28.28, Suhu Tanah 1 = 25.13, Lengas Tanah 2 = 31.86, Suhu Tanah 2 = 25.19, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 25.12, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 0:40:0
+Masuk mode GPRS
+Suhu Udara = 24.80, Kelembaban Udara = 93.00, Luminance = 8.91, Lengas Tanah 1 = 28.28, Suhu Tanah 1 = 25.09, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 25.09, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 25.04, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 17:40:27 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.80
+C1: 93.00
+C2: 8.91
+C3: 28.28
+C4: 25.09
+C5: 31.80
+C6: 25.09
+C7: 24.62
+C8: 25.04
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.28
+C14: 2480.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 0:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 0:50:0
+Masuk mode GPRS
+Suhu Udara = 24.76, Kelembaban Udara = 92.70, Luminance = 8.91, Lengas Tanah 1 = 28.28, Suhu Tanah 1 = 25.00, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 25.07, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 25.00, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 1:0:0
+Masuk mode GPRS
+Suhu Udara = 24.76, Kelembaban Udara = 92.74, Luminance = 8.91, Lengas Tanah 1 = 28.28, Suhu Tanah 1 = 24.99, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.99, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.97, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 18:00:28 GMT
+Content-Type: text/html
+Content-Length: 242
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.76
+C1: 92.74
+C2: 8.91
+C3: 28.28
+C4: 24.99
+C5: 31.80
+C6: 24.99
+C7: 24.62
+C8: 24.97
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.28
+C14: 2474.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 1:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 1:10:0
+Masuk mode GPRS
+Suhu Udara = 24.70, Kelembaban Udara = 92.70, Luminance = 8.91, Lengas Tanah 1 = 28.28, Suhu Tanah 1 = 24.92, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.99, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.92, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 18:10:28 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.70
+C1: 92.70
+C2: 8.91
+C3: 28.28
+C4: 24.92
+C5: 31.80
+C6: 24.99
+C7: 24.62
+C8: 24.92
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.28
+C14: 2578.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 1:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 1:20:0
+Masuk mode GPRS
+Suhu Udara = 24.70, Kelembaban Udara = 92.70, Luminance = 8.91, Lengas Tanah 1 = 28.19, Suhu Tanah 1 = 24.89, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.95, Lengas Tanah 3 = 24.59, Suhu Tanah 3 = 24.89, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 18:20:27 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.70
+C1: 92.70
+C2: 8.91
+C3: 28.19
+C4: 24.89
+C5: 31.80
+C6: 24.95
+C7: 24.59
+C8: 24.89
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.28
+C14: 2576.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 1:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 1:30:0
+Masuk mode GPRS
+Suhu Udara = 24.66, Kelembaban Udara = 93.70, Luminance = 8.91, Lengas Tanah 1 = 28.21, Suhu Tanah 1 = 24.89, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.92, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.89, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 18:30:27 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.66
+C1: 93.70
+C2: 8.91
+C3: 28.21
+C4: 24.89
+C5: 31.80
+C6: 24.92
+C7: 24.62
+C8: 24.89
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.28
+C14: 2582.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 1:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 1:40:0
+Masuk mode GPRS
+Suhu Udara = 24.60, Kelembaban Udara = 94.10, Luminance = 8.91, Lengas Tanah 1 = 28.21, Suhu Tanah 1 = 24.88, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.89, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.89, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 18:40:28 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.60
+C1: 94.10
+C2: 8.91
+C3: 28.21
+C4: 24.88
+C5: 31.80
+C6: 24.89
+C7: 24.62
+C8: 24.89
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.27
+C14: 2578.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 1:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 1:50:0
+Masuk mode GPRS
+Suhu Udara = 24.46, Kelembaban Udara = 94.90, Luminance = 8.91, Lengas Tanah 1 = 28.13, Suhu Tanah 1 = 24.86, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.89, Lengas Tanah 3 = 24.57, Suhu Tanah 3 = 24.88, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 2:0:0
+Masuk mode GPRS
+Suhu Udara = 24.40, Kelembaban Udara = 94.64, Luminance = 8.91, Lengas Tanah 1 = 28.11, Suhu Tanah 1 = 24.82, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.89, Lengas Tanah 3 = 24.57, Suhu Tanah 3 = 24.86, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 2:10:0
+Masuk mode GPRS
+Suhu Udara = 24.50, Kelembaban Udara = 92.30, Luminance = 8.91, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.79, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.86, Lengas Tanah 3 = 24.57, Suhu Tanah 3 = 24.79, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 19:10:28 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.50
+C1: 92.30
+C2: 8.91
+C3: 28.09
+C4: 24.79
+C5: 31.80
+C6: 24.86
+C7: 24.57
+C8: 24.79
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.27
+C14: 2570.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 2:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 2:20:0
+Masuk mode GPRS
+Suhu Udara = 24.56, Kelembaban Udara = 92.10, Luminance = 8.91, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.73, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.79, Lengas Tanah 3 = 24.59, Suhu Tanah 3 = 24.71, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 19:20:27 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.56
+C1: 92.10
+C2: 8.91
+C3: 28.09
+C4: 24.73
+C5: 31.80
+C6: 24.79
+C7: 24.59
+C8: 24.71
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.27
+C14: 2470.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 2:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 2:30:0
+Masuk mode GPRS
+Suhu Udara = 24.56, Kelembaban Udara = 91.90, Luminance = 8.91, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.69, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.74, Lengas Tanah 3 = 24.59, Suhu Tanah 3 = 24.68, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 2:40:0
+Masuk mode GPRS
+Suhu Udara = 24.56, Kelembaban Udara = 91.90, Luminance = 8.91, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.63, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.69, Lengas Tanah 3 = 24.55, Suhu Tanah 3 = 24.63, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 19:40:37 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.56
+C1: 91.90
+C2: 8.91
+C3: 28.09
+C4: 24.63
+C5: 31.80
+C6: 24.69
+C7: 24.55
+C8: 24.63
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.27
+C14: 2586.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 2:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 2:50:0
+Masuk mode GPRS
+Suhu Udara = 24.56, Kelembaban Udara = 91.80, Luminance = 8.91, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.60, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.69, Lengas Tanah 3 = 24.55, Suhu Tanah 3 = 24.60, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 19:50:28 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.56
+C1: 91.80
+C2: 8.91
+C3: 28.09
+C4: 24.60
+C5: 31.80
+C6: 24.69
+C7: 24.55
+C8: 24.60
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.27
+C14: 2520.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 2:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 3:0:0
+Masuk mode GPRS
+Suhu Udara = 24.56, Kelembaban Udara = 92.50, Luminance = 8.91, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.59, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.69, Lengas Tanah 3 = 24.53, Suhu Tanah 3 = 24.62, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 20:00:31 GMT
+Content-Type: text/html
+Content-Length: 242
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.56
+C1: 92.50
+C2: 8.91
+C3: 28.09
+C4: 24.59
+C5: 31.80
+C6: 24.69
+C7: 24.53
+C8: 24.62
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.27
+C14: 2560.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 3:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 3:10:0
+Masuk mode GPRS
+Suhu Udara = 21.78, Kelembaban Udara = 81.69, Luminance = 0.00, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.59, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.69, Lengas Tanah 3 = 24.55, Suhu Tanah 3 = 24.62, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 20:10:27 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 21.78
+C1: 81.69
+C2: 0.00
+C3: 28.09
+C4: 24.59
+C5: 31.80
+C6: 24.69
+C7: 24.55
+C8: 24.62
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2572.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 3:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 3:20:0
+Masuk mode GPRS
+Suhu Udara = 21.78, Kelembaban Udara = 82.40, Luminance = 0.00, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.59, Lengas Tanah 2 = 31.80, Suhu Tanah 2 = 24.68, Lengas Tanah 3 = 24.55, Suhu Tanah 3 = 24.62, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 20:20:26 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 21.78
+C1: 82.40
+C2: 0.00
+C3: 28.09
+C4: 24.59
+C5: 31.80
+C6: 24.68
+C7: 24.55
+C8: 24.62
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2506.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 3:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 3:30:0
+Masuk mode GPRS
+Suhu Udara = 24.36, Kelembaban Udara = 93.30, Luminance = 8.91, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.59, Lengas Tanah 2 = 31.75, Suhu Tanah 2 = 24.66, Lengas Tanah 3 = 24.55, Suhu Tanah 3 = 24.59, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 20:30:27 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.36
+C1: 93.30
+C2: 8.91
+C3: 28.09
+C4: 24.59
+C5: 31.75
+C6: 24.66
+C7: 24.55
+C8: 24.59
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2458.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 3:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 3:40:0
+Masuk mode GPRS
+Suhu Udara = 21.60, Kelembaban Udara = 82.84, Luminance = 0.00, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.57, Lengas Tanah 2 = 31.75, Suhu Tanah 2 = 24.61, Lengas Tanah 3 = 24.59, Suhu Tanah 3 = 24.59, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 20:40:36 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 21.60
+C1: 82.84
+C2: 0.00
+C3: 28.09
+C4: 24.57
+C5: 31.75
+C6: 24.61
+C7: 24.59
+C8: 24.59
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2468.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 3:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 3:50:0
+Masuk mode GPRS
+Suhu Udara = 21.51, Kelembaban Udara = 83.73, Luminance = 0.00, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.54, Lengas Tanah 2 = 31.75, Suhu Tanah 2 = 24.60, Lengas Tanah 3 = 24.57, Suhu Tanah 3 = 24.58, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 20:50:24 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 21.51
+C1: 83.73
+C2: 0.00
+C3: 28.09
+C4: 24.54
+C5: 31.75
+C6: 24.60
+C7: 24.57
+C8: 24.58
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2460.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 3:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 4:0:0
+Masuk mode GPRS
+Suhu Udara = 24.16, Kelembaban Udara = 94.64, Luminance = 8.91, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.52, Lengas Tanah 2 = 31.73, Suhu Tanah 2 = 24.59, Lengas Tanah 3 = 24.55, Suhu Tanah 3 = 24.53, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 21:00:29 GMT
+Content-Type: text/html
+Content-Length: 242
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.16
+C1: 94.64
+C2: 8.91
+C3: 28.09
+C4: 24.52
+C5: 31.73
+C6: 24.59
+C7: 24.55
+C8: 24.53
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2588.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 4:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 4:10:0
+Masuk mode GPRS
+Suhu Udara = 24.10, Kelembaban Udara = 95.54, Luminance = 8.91, Lengas Tanah 1 = 28.09, Suhu Tanah 1 = 24.49, Lengas Tanah 2 = 31.71, Suhu Tanah 2 = 24.58, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.52, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 21:10:26 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.10
+C1: 95.54
+C2: 8.91
+C3: 28.09
+C4: 24.49
+C5: 31.71
+C6: 24.58
+C7: 24.62
+C8: 24.52
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2552.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 4:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 4:20:0
+Masuk mode GPRS
+Suhu Udara = 24.00, Kelembaban Udara = 95.60, Luminance = 8.91, Lengas Tanah 1 = 28.07, Suhu Tanah 1 = 24.49, Lengas Tanah 2 = 31.69, Suhu Tanah 2 = 24.54, Lengas Tanah 3 = 24.57, Suhu Tanah 3 = 24.49, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 21:20:30 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.00
+C1: 95.60
+C2: 8.91
+C3: 28.07
+C4: 24.49
+C5: 31.69
+C6: 24.54
+C7: 24.57
+C8: 24.49
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2510.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 4:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 4:30:0
+Masuk mode GPRS
+Suhu Udara = 23.96, Kelembaban Udara = 95.90, Luminance = 8.91, Lengas Tanah 1 = 28.07, Suhu Tanah 1 = 24.49, Lengas Tanah 2 = 31.69, Suhu Tanah 2 = 24.52, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.49, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 21:30:31 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.96
+C1: 95.90
+C2: 8.91
+C3: 28.07
+C4: 24.49
+C5: 31.69
+C6: 24.52
+C7: 24.62
+C8: 24.49
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2576.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 4:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 4:40:0
+Masuk mode GPRS
+Suhu Udara = 23.86, Kelembaban Udara = 96.30, Luminance = 8.91, Lengas Tanah 1 = 28.05, Suhu Tanah 1 = 24.44, Lengas Tanah 2 = 31.65, Suhu Tanah 2 = 24.49, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.47, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 4:50:0
+Masuk mode GPRS
+Suhu Udara = 23.80, Kelembaban Udara = 96.90, Luminance = 8.91, Lengas Tanah 1 = 28.02, Suhu Tanah 1 = 24.42, Lengas Tanah 2 = 31.69, Suhu Tanah 2 = 24.49, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.47, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 21:50:28 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.80
+C1: 96.90
+C2: 8.91
+C3: 28.02
+C4: 24.42
+C5: 31.69
+C6: 24.49
+C7: 24.62
+C8: 24.47
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2566.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 4:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 5:0:0
+Masuk mode GPRS
+Suhu Udara = 23.80, Kelembaban Udara = 96.90, Luminance = 8.91, Lengas Tanah 1 = 28.02, Suhu Tanah 1 = 24.40, Lengas Tanah 2 = 31.65, Suhu Tanah 2 = 24.49, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.46, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 22:00:28 GMT
+Content-Type: text/html
+Content-Length: 242
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.80
+C1: 96.90
+C2: 8.91
+C3: 28.02
+C4: 24.40
+C5: 31.65
+C6: 24.49
+C7: 24.62
+C8: 24.46
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2458.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 5:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 5:10:0
+Masuk mode GPRS
+Suhu Udara = 23.90, Kelembaban Udara = 97.00, Luminance = 8.91, Lengas Tanah 1 = 28.02, Suhu Tanah 1 = 24.42, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.49, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.45, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 5:20:0
+Masuk mode GPRS
+Suhu Udara = 23.90, Kelembaban Udara = 97.60, Luminance = 8.91, Lengas Tanah 1 = 28.02, Suhu Tanah 1 = 24.42, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.49, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.48, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 22:20:30 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.90
+C1: 97.60
+C2: 8.91
+C3: 28.02
+C4: 24.42
+C5: 31.60
+C6: 24.49
+C7: 24.62
+C8: 24.48
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2490.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 5:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 5:30:0
+Masuk mode GPRS
+Suhu Udara = 23.96, Kelembaban Udara = 97.00, Luminance = 8.91, Lengas Tanah 1 = 27.98, Suhu Tanah 1 = 24.42, Lengas Tanah 2 = 31.67, Suhu Tanah 2 = 24.49, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.49, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 22:30:28 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.96
+C1: 97.00
+C2: 8.91
+C3: 27.98
+C4: 24.42
+C5: 31.67
+C6: 24.49
+C7: 24.62
+C8: 24.49
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2560.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 5:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 5:40:0
+Masuk mode GPRS
+Suhu Udara = 24.01, Kelembaban Udara = 96.30, Luminance = 8.73, Lengas Tanah 1 = 28.00, Suhu Tanah 1 = 24.44, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.49, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.50, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 22:40:24 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.01
+C1: 96.30
+C2: 8.73
+C3: 28.00
+C4: 24.44
+C5: 31.60
+C6: 24.49
+C7: 24.62
+C8: 24.50
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2478.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 5:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 5:50:0
+Masuk mode GPRS
+Suhu Udara = 21.51, Kelembaban Udara = 85.07, Luminance = 1751.04, Lengas Tanah 1 = 27.98, Suhu Tanah 1 = 24.49, Lengas Tanah 2 = 31.67, Suhu Tanah 2 = 24.56, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.57, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 6:0:0
+Masuk mode GPRS
+Suhu Udara = 21.69, Kelembaban Udara = 83.47, Luminance = 2131.20, Lengas Tanah 1 = 27.98, Suhu Tanah 1 = 24.49, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.59, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.59, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 6:10:0
+Masuk mode GPRS
+Suhu Udara = 21.87, Kelembaban Udara = 82.76, Luminance = 2327.04, Lengas Tanah 1 = 27.91, Suhu Tanah 1 = 24.52, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.60, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.62, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 23:10:25 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 21.87
+C1: 82.76
+C2: 2327.04
+C3: 27.91
+C4: 24.52
+C5: 31.60
+C6: 24.60
+C7: 24.62
+C8: 24.62
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2552.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 6:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 6:20:0
+Masuk mode GPRS
+Suhu Udara = 21.96, Kelembaban Udara = 82.22, Luminance = 3156.48, Lengas Tanah 1 = 27.86, Suhu Tanah 1 = 24.54, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.60, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.64, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 23:20:26 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 21.96
+C1: 82.22
+C2: 3156.48
+C3: 27.86
+C4: 24.54
+C5: 31.60
+C6: 24.60
+C7: 24.62
+C8: 24.64
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2500.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 6:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 6:30:0
+Masuk mode GPRS
+Suhu Udara = 22.13, Kelembaban Udara = 81.33, Luminance = 3916.80, Lengas Tanah 1 = 27.91, Suhu Tanah 1 = 24.59, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.69, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.70, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 23:30:37 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.13
+C1: 81.33
+C2: 3916.80
+C3: 27.91
+C4: 24.59
+C5: 31.60
+C6: 24.69
+C7: 24.62
+C8: 24.70
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2578.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 6:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 6:40:0
+Masuk mode GPRS
+Suhu Udara = 22.31, Kelembaban Udara = 80.00, Luminance = 4170.24, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 24.66, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.72, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.77, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 23:40:27 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.31
+C1: 80.00
+C2: 4170.24
+C3: 27.84
+C4: 24.66
+C5: 31.60
+C6: 24.72
+C7: 24.62
+C8: 24.77
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2470.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 6:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 6:50:0
+Masuk mode GPRS
+Suhu Udara = 22.49, Kelembaban Udara = 79.02, Luminance = 3686.40, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 24.69, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.77, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.79, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 19 Dec 2022 23:50:26 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.49
+C1: 79.02
+C2: 3686.40
+C3: 27.84
+C4: 24.69
+C5: 31.60
+C6: 24.77
+C7: 24.62
+C8: 24.79
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2500.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 6:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 7:0:0
+Masuk mode GPRS
+Suhu Udara = 22.67, Kelembaban Udara = 79.20, Luminance = 3110.40, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 24.69, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.79, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.82, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 00:00:24 GMT
+Content-Type: text/html
+Content-Length: 245
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.67
+C1: 79.20
+C2: 3110.40
+C3: 27.84
+C4: 24.69
+C5: 31.60
+C6: 24.79
+C7: 24.62
+C8: 24.82
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2536.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 7:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 7:10:0
+Masuk mode GPRS
+Suhu Udara = 22.84, Kelembaban Udara = 78.40, Luminance = 2522.88, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 24.71, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.79, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.86, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 00:10:27 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 22.84
+C1: 78.40
+C2: 2522.88
+C3: 27.84
+C4: 24.71
+C5: 31.60
+C6: 24.79
+C7: 24.62
+C8: 24.86
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2474.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 7:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 7:20:0
+Masuk mode GPRS
+Suhu Udara = 23.11, Kelembaban Udara = 77.16, Luminance = 2545.92, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 24.78, Lengas Tanah 2 = 31.58, Suhu Tanah 2 = 24.83, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.89, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 00:20:26 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.11
+C1: 77.16
+C2: 2545.92
+C3: 27.84
+C4: 24.78
+C5: 31.58
+C6: 24.83
+C7: 24.62
+C8: 24.89
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2478.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 7:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 7:30:0
+Masuk mode GPRS
+Suhu Udara = 23.29, Kelembaban Udara = 75.64, Luminance = 2764.80, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 24.79, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 24.89, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.93, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 00:30:25 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.29
+C1: 75.64
+C2: 2764.80
+C3: 27.84
+C4: 24.79
+C5: 31.60
+C6: 24.89
+C7: 24.62
+C8: 24.93
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2464.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 7:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 7:40:0
+Masuk mode GPRS
+Suhu Udara = 23.47, Kelembaban Udara = 75.47, Luminance = 2903.04, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 24.82, Lengas Tanah 2 = 31.54, Suhu Tanah 2 = 24.91, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 24.99, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 00:40:25 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.47
+C1: 75.47
+C2: 2903.04
+C3: 27.84
+C4: 24.82
+C5: 31.54
+C6: 24.91
+C7: 24.62
+C8: 24.99
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2560.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 7:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 7:50:0
+Masuk mode GPRS
+Suhu Udara = 23.73, Kelembaban Udara = 74.76, Luminance = 3087.36, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 24.89, Lengas Tanah 2 = 31.54, Suhu Tanah 2 = 24.99, Lengas Tanah 3 = 24.57, Suhu Tanah 3 = 25.06, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 00:50:26 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.73
+C1: 74.76
+C2: 3087.36
+C3: 27.84
+C4: 24.89
+C5: 31.54
+C6: 24.99
+C7: 24.57
+C8: 25.06
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2454.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 7:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 8:0:0
+Masuk mode GPRS
+Suhu Udara = 23.91, Kelembaban Udara = 74.22, Luminance = 3456.00, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 24.99, Lengas Tanah 2 = 31.54, Suhu Tanah 2 = 25.09, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 25.13, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 01:00:26 GMT
+Content-Type: text/html
+Content-Length: 245
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 23.91
+C1: 74.22
+C2: 3456.00
+C3: 27.84
+C4: 24.99
+C5: 31.54
+C6: 25.09
+C7: 24.62
+C8: 25.13
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2542.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 8:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 8:10:0
+Masuk mode GPRS
+Suhu Udara = 24.27, Kelembaban Udara = 72.36, Luminance = 3686.40, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 25.03, Lengas Tanah 2 = 31.54, Suhu Tanah 2 = 25.13, Lengas Tanah 3 = 24.62, Suhu Tanah 3 = 25.20, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 01:10:27 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.27
+C1: 72.36
+C2: 3686.40
+C3: 27.84
+C4: 25.03
+C5: 31.54
+C6: 25.13
+C7: 24.62
+C8: 25.20
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2572.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 8:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 8:20:0
+Masuk mode GPRS
+Suhu Udara = 24.62, Kelembaban Udara = 69.42, Luminance = 3985.92, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 25.09, Lengas Tanah 2 = 31.54, Suhu Tanah 2 = 25.19, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 25.29, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 01:20:27 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 24.62
+C1: 69.42
+C2: 3985.92
+C3: 27.84
+C4: 25.09
+C5: 31.54
+C6: 25.19
+C7: 24.42
+C8: 25.29
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.23
+C14: 2582.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 8:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 8:30:0
+Masuk mode GPRS
+Suhu Udara = 25.16, Kelembaban Udara = 65.42, Luminance = 28753.92, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 25.19, Lengas Tanah 2 = 31.46, Suhu Tanah 2 = 25.29, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 25.39, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 01:30:29 GMT
+Content-Type: text/html
+Content-Length: 247
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 25.16
+C1: 65.42
+C2: 28753.92
+C3: 27.84
+C4: 25.19
+C5: 31.46
+C6: 25.29
+C7: 24.42
+C8: 25.39
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2468.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 8:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 8:40:0
+Masuk mode GPRS
+Suhu Udara = 25.87, Kelembaban Udara = 63.73, Luminance = 5276.16, Lengas Tanah 1 = 27.80, Suhu Tanah 1 = 25.29, Lengas Tanah 2 = 31.44, Suhu Tanah 2 = 25.39, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 25.42, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 01:40:44 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 25.87
+C1: 63.73
+C2: 5276.16
+C3: 27.80
+C4: 25.29
+C5: 31.44
+C6: 25.39
+C7: 24.42
+C8: 25.42
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2474.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 8:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 8:50:0
+Masuk mode GPRS
+Suhu Udara = 26.40, Kelembaban Udara = 62.22, Luminance = 8570.88, Lengas Tanah 1 = 27.73, Suhu Tanah 1 = 25.39, Lengas Tanah 2 = 31.54, Suhu Tanah 2 = 25.49, Lengas Tanah 3 = 24.41, Suhu Tanah 3 = 25.59, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 01:50:26 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 26.40
+C1: 62.22
+C2: 8570.88
+C3: 27.73
+C4: 25.39
+C5: 31.54
+C6: 25.49
+C7: 24.41
+C8: 25.59
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2474.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 8:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 9:0:0
+Masuk mode GPRS
+Suhu Udara = 26.58, Kelembaban Udara = 60.18, Luminance = 4930.56, Lengas Tanah 1 = 27.73, Suhu Tanah 1 = 25.49, Lengas Tanah 2 = 31.52, Suhu Tanah 2 = 25.62, Lengas Tanah 3 = 24.41, Suhu Tanah 3 = 25.72, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 02:00:53 GMT
+Content-Type: text/html
+Content-Length: 245
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 26.58
+C1: 60.18
+C2: 4930.56
+C3: 27.73
+C4: 25.49
+C5: 31.52
+C6: 25.62
+C7: 24.41
+C8: 25.72
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2526.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 9:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 9:10:0
+Masuk mode GPRS
+Suhu Udara = 26.76, Kelembaban Udara = 61.51, Luminance = 5230.08, Lengas Tanah 1 = 27.69, Suhu Tanah 1 = 25.68, Lengas Tanah 2 = 31.46, Suhu Tanah 2 = 25.79, Lengas Tanah 3 = 24.39, Suhu Tanah 3 = 25.87, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 02:10:24 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 26.76
+C1: 61.51
+C2: 5230.08
+C3: 27.69
+C4: 25.68
+C5: 31.46
+C6: 25.79
+C7: 24.39
+C8: 25.87
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2552.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 9:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 9:20:0
+Masuk mode GPRS
+Suhu Udara = 27.11, Kelembaban Udara = 58.04, Luminance = 29491.20, Lengas Tanah 1 = 27.73, Suhu Tanah 1 = 25.89, Lengas Tanah 2 = 31.44, Suhu Tanah 2 = 25.92, Lengas Tanah 3 = 24.39, Suhu Tanah 3 = 26.02, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 02:20:25 GMT
+Content-Type: text/html
+Content-Length: 247
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 27.11
+C1: 58.04
+C2: 29491.20
+C3: 27.73
+C4: 25.89
+C5: 31.44
+C6: 25.92
+C7: 24.39
+C8: 26.02
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2478.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 9:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 9:30:0
+Masuk mode GPRS
+Suhu Udara = 27.47, Kelembaban Udara = 58.22, Luminance = 6174.72, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 26.73, Lengas Tanah 2 = 31.54, Suhu Tanah 2 = 26.35, Lengas Tanah 3 = 24.41, Suhu Tanah 3 = 26.29, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 02:30:37 GMT
+Content-Type: text/html
+Content-Length: 246
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 27.47
+C1: 58.22
+C2: 6174.72
+C3: 27.84
+C4: 26.73
+C5: 31.54
+C6: 26.35
+C7: 24.41
+C8: 26.29
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2606.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 9:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 9:40:0
+Masuk mode GPRS
+Suhu Udara = 27.82, Kelembaban Udara = 55.29, Luminance = 25804.80, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 28.05, Lengas Tanah 2 = 31.56, Suhu Tanah 2 = 27.29, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 27.09, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 9:50:0
+Masuk mode GPRS
+Suhu Udara = 28.53, Kelembaban Udara = 54.40, Luminance = 22855.68, Lengas Tanah 1 = 27.84, Suhu Tanah 1 = 29.33, Lengas Tanah 2 = 31.60, Suhu Tanah 2 = 28.46, Lengas Tanah 3 = 24.41, Suhu Tanah 3 = 27.85, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 10:0:0
+Masuk mode GPRS
+Suhu Udara = 28.98, Kelembaban Udara = 51.73, Luminance = 2638.08, Lengas Tanah 1 = 27.67, Suhu Tanah 1 = 30.33, Lengas Tanah 2 = 31.54, Suhu Tanah 2 = 29.62, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 29.51, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 10:10:0
+Masuk mode GPRS
+Suhu Udara = 32.90, Kelembaban Udara = 58.20, Luminance = 8.91, Lengas Tanah 1 = 27.67, Suhu Tanah 1 = 31.14, Lengas Tanah 2 = 31.43, Suhu Tanah 2 = 30.48, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 31.01, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 03:10:36 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 32.90
+C1: 58.20
+C2: 8.91
+C3: 27.67
+C4: 31.14
+C5: 31.43
+C6: 30.48
+C7: 24.42
+C8: 31.01
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2496.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 10:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 10:20:0
+Masuk mode GPRS
+Suhu Udara = 33.06, Kelembaban Udara = 58.80, Luminance = 8.91, Lengas Tanah 1 = 27.52, Suhu Tanah 1 = 31.78, Lengas Tanah 2 = 31.39, Suhu Tanah 2 = 31.18, Lengas Tanah 3 = 24.42, Suhu Tanah 3 = 32.13, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 03:20:28 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.06
+C1: 58.80
+C2: 8.91
+C3: 27.52
+C4: 31.78
+C5: 31.39
+C6: 31.18
+C7: 24.42
+C8: 32.13
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2602.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 10:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 10:30:0
+Masuk mode GPRS
+Suhu Udara = 33.10, Kelembaban Udara = 58.60, Luminance = 8.91, Lengas Tanah 1 = 27.46, Suhu Tanah 1 = 32.23, Lengas Tanah 2 = 31.24, Suhu Tanah 2 = 31.65, Lengas Tanah 3 = 24.36, Suhu Tanah 3 = 32.42, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 03:30:29 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.10
+C1: 58.60
+C2: 8.91
+C3: 27.46
+C4: 32.23
+C5: 31.24
+C6: 31.65
+C7: 24.36
+C8: 32.42
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2622.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 10:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 10:40:0
+Masuk mode GPRS
+Suhu Udara = 33.20, Kelembaban Udara = 57.80, Luminance = 8.91, Lengas Tanah 1 = 27.32, Suhu Tanah 1 = 32.54, Lengas Tanah 2 = 31.22, Suhu Tanah 2 = 32.03, Lengas Tanah 3 = 24.26, Suhu Tanah 3 = 33.01, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 03:40:47 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.20
+C1: 57.80
+C2: 8.91
+C3: 27.32
+C4: 32.54
+C5: 31.22
+C6: 32.03
+C7: 24.26
+C8: 33.01
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2576.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 10:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 10:50:0
+Masuk mode GPRS
+Suhu Udara = 33.30, Kelembaban Udara = 58.40, Luminance = 8.91, Lengas Tanah 1 = 27.27, Suhu Tanah 1 = 32.66, Lengas Tanah 2 = 31.07, Suhu Tanah 2 = 32.19, Lengas Tanah 3 = 24.26, Suhu Tanah 3 = 33.00, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 03:50:47 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.30
+C1: 58.40
+C2: 8.91
+C3: 27.27
+C4: 32.66
+C5: 31.07
+C6: 32.19
+C7: 24.26
+C8: 33.00
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2516.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 10:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 11:0:0
+Masuk mode GPRS
+Suhu Udara = 32.90, Kelembaban Udara = 60.10, Luminance = 8.91, Lengas Tanah 1 = 27.13, Suhu Tanah 1 = 32.23, Lengas Tanah 2 = 31.00, Suhu Tanah 2 = 32.03, Lengas Tanah 3 = 24.11, Suhu Tanah 3 = 33.04, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 04:00:32 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 32.90
+C1: 60.10
+C2: 8.91
+C3: 27.13
+C4: 32.23
+C5: 31.00
+C6: 32.03
+C7: 24.11
+C8: 33.04
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2622.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 11:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 11:10:0
+Masuk mode GPRS
+Suhu Udara = 32.66, Kelembaban Udara = 61.14, Luminance = 8.91, Lengas Tanah 1 = 27.13, Suhu Tanah 1 = 31.84, Lengas Tanah 2 = 30.87, Suhu Tanah 2 = 31.53, Lengas Tanah 3 = 24.09, Suhu Tanah 3 = 32.39, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 04:10:32 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 32.66
+C1: 61.14
+C2: 8.91
+C3: 27.13
+C4: 31.84
+C5: 30.87
+C6: 31.53
+C7: 24.09
+C8: 32.39
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2606.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 11:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 11:20:0
+Masuk mode GPRS
+Suhu Udara = 32.46, Kelembaban Udara = 61.20, Luminance = 8.91, Lengas Tanah 1 = 27.12, Suhu Tanah 1 = 31.66, Lengas Tanah 2 = 30.87, Suhu Tanah 2 = 31.26, Lengas Tanah 3 = 24.02, Suhu Tanah 3 = 31.80, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 04:21:48 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 32.46
+C1: 61.20
+C2: 8.91
+C3: 27.12
+C4: 31.66
+C5: 30.87
+C6: 31.26
+C7: 24.02
+C8: 31.80
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2526.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 11:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 11:30:0
+Masuk mode GPRS
+Suhu Udara = 32.96, Kelembaban Udara = 57.20, Luminance = 8.91, Lengas Tanah 1 = 27.10, Suhu Tanah 1 = 32.14, Lengas Tanah 2 = 30.87, Suhu Tanah 2 = 31.84, Lengas Tanah 3 = 24.09, Suhu Tanah 3 = 32.76, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 04:30:36 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 32.96
+C1: 57.20
+C2: 8.91
+C3: 27.10
+C4: 32.14
+C5: 30.87
+C6: 31.84
+C7: 24.09
+C8: 32.76
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2596.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 11:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 11:40:0
+Masuk mode GPRS
+Suhu Udara = 33.70, Kelembaban Udara = 57.10, Luminance = 8.91, Lengas Tanah 1 = 26.97, Suhu Tanah 1 = 31.94, Lengas Tanah 2 = 30.72, Suhu Tanah 2 = 31.94, Lengas Tanah 3 = 23.97, Suhu Tanah 3 = 33.10, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 04:40:28 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.70
+C1: 57.10
+C2: 8.91
+C3: 26.97
+C4: 31.94
+C5: 30.72
+C6: 31.94
+C7: 23.97
+C8: 33.10
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2490.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 11:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 11:50:0
+Masuk mode GPRS
+Suhu Udara = 34.06, Kelembaban Udara = 55.70, Luminance = 8.91, Lengas Tanah 1 = 26.97, Suhu Tanah 1 = 31.26, Lengas Tanah 2 = 30.69, Suhu Tanah 2 = 31.26, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 32.27, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 04:50:32 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 34.06
+C1: 55.70
+C2: 8.91
+C3: 26.97
+C4: 31.26
+C5: 30.69
+C6: 31.26
+C7: 23.85
+C8: 32.27
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2858.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 11:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 12:0:0
+Masuk mode GPRS
+Suhu Udara = 33.66, Kelembaban Udara = 56.80, Luminance = 8.91, Lengas Tanah 1 = 26.92, Suhu Tanah 1 = 30.71, Lengas Tanah 2 = 30.67, Suhu Tanah 2 = 30.68, Lengas Tanah 3 = 23.75, Suhu Tanah 3 = 31.43, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 05:01:08 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.66
+C1: 56.80
+C2: 8.91
+C3: 26.92
+C4: 30.71
+C5: 30.67
+C6: 30.68
+C7: 23.75
+C8: 31.43
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2510.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 12:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 12:10:0
+Masuk mode GPRS
+Suhu Udara = 33.86, Kelembaban Udara = 56.90, Luminance = 8.91, Lengas Tanah 1 = 26.90, Suhu Tanah 1 = 30.32, Lengas Tanah 2 = 30.65, Suhu Tanah 2 = 30.30, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 30.93, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 05:10:36 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.86
+C1: 56.90
+C2: 8.91
+C3: 26.90
+C4: 30.32
+C5: 30.65
+C6: 30.30
+C7: 23.85
+C8: 30.93
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.26
+C14: 2526.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 12:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 12:20:0
+Masuk mode GPRS
+Suhu Udara = 34.36, Kelembaban Udara = 56.80, Luminance = 8.91, Lengas Tanah 1 = 26.95, Suhu Tanah 1 = 30.39, Lengas Tanah 2 = 30.67, Suhu Tanah 2 = 30.30, Lengas Tanah 3 = 23.82, Suhu Tanah 3 = 30.54, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 05:20:29 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 34.36
+C1: 56.80
+C2: 8.91
+C3: 26.95
+C4: 30.39
+C5: 30.67
+C6: 30.30
+C7: 23.82
+C8: 30.54
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2588.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 12:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 12:30:0
+Masuk mode GPRS
+Suhu Udara = 34.40, Kelembaban Udara = 56.60, Luminance = 8.91, Lengas Tanah 1 = 26.88, Suhu Tanah 1 = 30.32, Lengas Tanah 2 = 30.61, Suhu Tanah 2 = 30.31, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 30.64, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 05:30:25 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 34.40
+C1: 56.60
+C2: 8.91
+C3: 26.88
+C4: 30.32
+C5: 30.61
+C6: 30.31
+C7: 23.85
+C8: 30.64
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2496.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 12:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 12:40:0
+Masuk mode GPRS
+Suhu Udara = 33.26, Kelembaban Udara = 59.10, Luminance = 8.91, Lengas Tanah 1 = 26.78, Suhu Tanah 1 = 30.31, Lengas Tanah 2 = 30.45, Suhu Tanah 2 = 30.21, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 30.39, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 05:40:28 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.26
+C1: 59.10
+C2: 8.91
+C3: 26.78
+C4: 30.31
+C5: 30.45
+C6: 30.21
+C7: 23.85
+C8: 30.39
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2562.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 12:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 12:50:0
+Masuk mode GPRS
+Suhu Udara = 33.26, Kelembaban Udara = 59.90, Luminance = 8.91, Lengas Tanah 1 = 26.78, Suhu Tanah 1 = 30.01, Lengas Tanah 2 = 30.45, Suhu Tanah 2 = 29.91, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 30.02, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 05:50:34 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.26
+C1: 59.90
+C2: 8.91
+C3: 26.78
+C4: 30.01
+C5: 30.45
+C6: 29.91
+C7: 23.85
+C8: 30.02
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2622.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 12:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 13:0:0
+Masuk mode GPRS
+Suhu Udara = 33.70, Kelembaban Udara = 59.80, Luminance = 8.91, Lengas Tanah 1 = 26.78, Suhu Tanah 1 = 29.72, Lengas Tanah 2 = 30.45, Suhu Tanah 2 = 29.62, Lengas Tanah 3 = 23.84, Suhu Tanah 3 = 29.71, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 06:00:39 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 33.70
+C1: 59.80
+C2: 8.91
+C3: 26.78
+C4: 29.72
+C5: 30.45
+C6: 29.62
+C7: 23.84
+C8: 29.71
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2614.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 13:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 13:10:0
+Masuk mode GPRS
+Suhu Udara = 33.16, Kelembaban Udara = 61.90, Luminance = 8.91, Lengas Tanah 1 = 26.76, Suhu Tanah 1 = 29.46, Lengas Tanah 2 = 30.23, Suhu Tanah 2 = 29.35, Lengas Tanah 3 = 23.84, Suhu Tanah 3 = 29.43, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 13:20:0
+Masuk mode GPRS
+Suhu Udara = 32.70, Kelembaban Udara = 62.10, Luminance = 8.91, Lengas Tanah 1 = 26.70, Suhu Tanah 1 = 29.28, Lengas Tanah 2 = 30.23, Suhu Tanah 2 = 29.22, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 29.31, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 06:20:38 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 32.70
+C1: 62.10
+C2: 8.91
+C3: 26.70
+C4: 29.28
+C5: 30.23
+C6: 29.22
+C7: 23.85
+C8: 29.31
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2542.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 13:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 13:30:0
+Masuk mode GPRS
+Suhu Udara = 32.26, Kelembaban Udara = 63.30, Luminance = 8.91, Lengas Tanah 1 = 26.74, Suhu Tanah 1 = 29.15, Lengas Tanah 2 = 30.21, Suhu Tanah 2 = 29.08, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 29.12, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 06:30:33 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 32.26
+C1: 63.30
+C2: 8.91
+C3: 26.74
+C4: 29.15
+C5: 30.21
+C6: 29.08
+C7: 23.85
+C8: 29.12
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2632.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 13:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 13:40:0
+Masuk mode GPRS
+Suhu Udara = 31.80, Kelembaban Udara = 63.70, Luminance = 8.91, Lengas Tanah 1 = 26.71, Suhu Tanah 1 = 29.00, Lengas Tanah 2 = 30.15, Suhu Tanah 2 = 28.94, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.99, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 06:40:33 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 31.80
+C1: 63.70
+C2: 8.91
+C3: 26.71
+C4: 29.00
+C5: 30.15
+C6: 28.94
+C7: 23.85
+C8: 28.99
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2534.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 13:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 13:50:0
+Masuk mode GPRS
+Suhu Udara = 31.70, Kelembaban Udara = 64.80, Luminance = 8.91, Lengas Tanah 1 = 26.71, Suhu Tanah 1 = 28.90, Lengas Tanah 2 = 30.15, Suhu Tanah 2 = 28.84, Lengas Tanah 3 = 23.84, Suhu Tanah 3 = 28.84, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 06:50:10 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 31.70
+C1: 64.80
+C2: 8.91
+C3: 26.71
+C4: 28.90
+C5: 30.15
+C6: 28.84
+C7: 23.84
+C8: 28.84
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.25
+C14: 2550.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 13:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 14:0:0
+Masuk mode GPRS
+Suhu Udara = 31.50, Kelembaban Udara = 65.24, Luminance = 8.91, Lengas Tanah 1 = 26.68, Suhu Tanah 1 = 28.83, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.74, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.77, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 07:00:33 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 31.50
+C1: 65.24
+C2: 8.91
+C3: 26.68
+C4: 28.83
+C5: 30.10
+C6: 28.74
+C7: 23.85
+C8: 28.77
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2566.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 14:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 14:10:0
+Masuk mode GPRS
+Suhu Udara = 31.30, Kelembaban Udara = 66.50, Luminance = 8.91, Lengas Tanah 1 = 26.68, Suhu Tanah 1 = 28.72, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.65, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.73, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 07:10:35 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 31.30
+C1: 66.50
+C2: 8.91
+C3: 26.68
+C4: 28.72
+C5: 30.10
+C6: 28.65
+C7: 23.85
+C8: 28.73
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2480.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 14:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 14:20:0
+Masuk mode GPRS
+Suhu Udara = 31.00, Kelembaban Udara = 66.90, Luminance = 8.91, Lengas Tanah 1 = 26.64, Suhu Tanah 1 = 28.62, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.55, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.65, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 07:20:41 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 31.00
+C1: 66.90
+C2: 8.91
+C3: 26.64
+C4: 28.62
+C5: 30.10
+C6: 28.55
+C7: 23.85
+C8: 28.65
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2542.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 14:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 14:30:0
+Masuk mode GPRS
+Suhu Udara = 31.10, Kelembaban Udara = 68.10, Luminance = 8.91, Lengas Tanah 1 = 26.60, Suhu Tanah 1 = 28.55, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.48, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.56, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 14:40:0
+Masuk mode GPRS
+Suhu Udara = 31.10, Kelembaban Udara = 67.60, Luminance = 8.91, Lengas Tanah 1 = 26.67, Suhu Tanah 1 = 28.49, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.45, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.48, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 07:42:10 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 31.10
+C1: 67.60
+C2: 8.91
+C3: 26.67
+C4: 28.49
+C5: 30.10
+C6: 28.45
+C7: 23.85
+C8: 28.48
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2494.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 14:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 14:50:0
+Masuk mode GPRS
+Suhu Udara = 30.90, Kelembaban Udara = 67.80, Luminance = 8.91, Lengas Tanah 1 = 26.64, Suhu Tanah 1 = 28.45, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.35, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.40, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 07:50:38 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 30.90
+C1: 67.80
+C2: 8.91
+C3: 26.64
+C4: 28.45
+C5: 30.10
+C6: 28.35
+C7: 23.85
+C8: 28.40
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2494.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 14:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 15:0:0
+Masuk mode GPRS
+Suhu Udara = 30.66, Kelembaban Udara = 70.50, Luminance = 8.91, Lengas Tanah 1 = 26.57, Suhu Tanah 1 = 28.35, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.29, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.30, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 08:00:36 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 30.66
+C1: 70.50
+C2: 8.91
+C3: 26.57
+C4: 28.35
+C5: 30.10
+C6: 28.29
+C7: 23.85
+C8: 28.30
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2582.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 15:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 15:10:0
+Masuk mode GPRS
+Suhu Udara = 30.46, Kelembaban Udara = 71.40, Luminance = 8.91, Lengas Tanah 1 = 26.55, Suhu Tanah 1 = 28.28, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.26, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.31, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 08:10:40 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 30.46
+C1: 71.40
+C2: 8.91
+C3: 26.55
+C4: 28.28
+C5: 30.10
+C6: 28.26
+C7: 23.85
+C8: 28.31
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.24
+C14: 2570.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 15:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 15:20:0
+Masuk mode GPRS
+Suhu Udara = 30.26, Kelembaban Udara = 72.20, Luminance = 8.91, Lengas Tanah 1 = 26.55, Suhu Tanah 1 = 28.17, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.16, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.22, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 08:20:37 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 30.26
+C1: 72.20
+C2: 8.91
+C3: 26.55
+C4: 28.17
+C5: 30.10
+C6: 28.16
+C7: 23.85
+C8: 28.22
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.23
+C14: 2582.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 15:20:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 15:30:0
+Masuk mode GPRS
+Suhu Udara = 30.16, Kelembaban Udara = 72.36, Luminance = 8.91, Lengas Tanah 1 = 26.55, Suhu Tanah 1 = 28.13, Lengas Tanah 2 = 30.08, Suhu Tanah 2 = 28.08, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 28.10, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 08:30:30 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 30.16
+C1: 72.36
+C2: 8.91
+C3: 26.55
+C4: 28.13
+C5: 30.08
+C6: 28.08
+C7: 23.85
+C8: 28.10
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.23
+C14: 2510.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 15:30:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 15:40:0
+Masuk mode GPRS
+Suhu Udara = 30.06, Kelembaban Udara = 71.60, Luminance = 8.91, Lengas Tanah 1 = 26.55, Suhu Tanah 1 = 28.06, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 28.06, Lengas Tanah 3 = 23.81, Suhu Tanah 3 = 28.07, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 15:50:0
+Masuk mode GPRS
+Suhu Udara = 30.00, Kelembaban Udara = 73.60, Luminance = 8.91, Lengas Tanah 1 = 26.55, Suhu Tanah 1 = 27.96, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 27.96, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 27.96, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 08:51:16 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 30.00
+C1: 73.60
+C2: 8.91
+C3: 26.55
+C4: 27.96
+C5: 30.10
+C6: 27.96
+C7: 23.85
+C8: 27.96
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.23
+C14: 2572.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 15:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 16:0:0
+Masuk mode GPRS
+Suhu Udara = 29.86, Kelembaban Udara = 74.34, Luminance = 8.91, Lengas Tanah 1 = 26.55, Suhu Tanah 1 = 27.87, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 27.87, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 27.85, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 09:00:48 GMT
+Content-Type: text/html
+Content-Length: 243
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 29.86
+C1: 74.34
+C2: 8.91
+C3: 26.55
+C4: 27.87
+C5: 30.10
+C6: 27.87
+C7: 23.85
+C8: 27.85
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.23
+C14: 2470.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 16:0:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 16:10:0
+Masuk mode GPRS
+Suhu Udara = 29.70, Kelembaban Udara = 75.70, Luminance = 8.91, Lengas Tanah 1 = 26.55, Suhu Tanah 1 = 27.77, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 27.77, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 27.77, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 09:10:27 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 29.70
+C1: 75.70
+C2: 8.91
+C3: 26.55
+C4: 27.77
+C5: 30.10
+C6: 27.77
+C7: 23.85
+C8: 27.77
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.22
+C14: 2464.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 16:10:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 16:20:0
+Masuk mode GPRS
+Suhu Udara = 29.70, Kelembaban Udara = 73.46, Luminance = 8.91, Lengas Tanah 1 = 26.55, Suhu Tanah 1 = 27.76, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 27.69, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 27.69, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 16:30:0
+Masuk mode GPRS
+Suhu Udara = 29.66, Kelembaban Udara = 74.46, Luminance = 8.91, Lengas Tanah 1 = 26.55, Suhu Tanah 1 = 27.67, Lengas Tanah 2 = 30.10, Suhu Tanah 2 = 27.67, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 27.65, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 16:40:0
+Masuk mode GPRS
+Suhu Udara = 29.70, Kelembaban Udara = 73.50, Luminance = 8.91, Lengas Tanah 1 = 27.43, Suhu Tanah 1 = 27.66, Lengas Tanah 2 = 30.69, Suhu Tanah 2 = 27.63, Lengas Tanah 3 = 24.09, Suhu Tanah 3 = 27.61, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 09:40:29 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 29.70
+C1: 73.50
+C2: 8.91
+C3: 27.43
+C4: 27.66
+C5: 30.69
+C6: 27.63
+C7: 24.09
+C8: 27.61
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.22
+C14: 2552.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 16:40:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+
+2022-12-20 16:50:0
+Masuk mode GPRS
+Suhu Udara = 29.70, Kelembaban Udara = 74.70, Luminance = 8.91, Lengas Tanah 1 = 26.90, Suhu Tanah 1 = 27.57, Lengas Tanah 2 = 30.69, Suhu Tanah 2 = 27.57, Lengas Tanah 3 = 23.85, Suhu Tanah 3 = 27.50, pH = 0.00, Nitrogen = 0.00, Phospor = 0.00, Kalium = 0.00
+Berhasil tersambung dengan GPRS
+Berhasil Connect ke Server
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 20 Dec 2022 09:50:24 GMT
+Content-Type: text/html
+Content-Length: 244
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3-7+squeeze19
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+
+##1
+1
+DATA RECEIVED..
+C0: 29.70
+C1: 74.70
+C2: 8.91
+C3: 26.90
+C4: 27.57
+C5: 30.69
+C6: 27.57
+C7: 23.85
+C8: 27.50
+C9: 0.00
+C10: 0.00
+C11: 0.00
+C12: 0.00
+C13: 12.22
+C14: 2464.00
+C15: 
+L1: 
+L2: 
+S1: 
+S2: 
+T: 2022-12-20 16:50:0
+R: 
+B: 
+ET: 
+SUCCESS
+ 
+Berhasil Terkirim ke Server
+Masih ada file blm terkirim
+File telah dihapus
+Mulai sleep...
+

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="c.png"/>
+    <title>Agri Eye</title>
+    <link href="bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+   
+
+    <div class="parent container d-flex justify-content-center align-items-center h-100">
+      <div class="bg-image"> <div class="hero bg-primary-dark-op"></div>
+       
+                      <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+                    
+                        <a class="navbar-brand" href="#">
+                        <img src="c.png" width="100" height="50" class="img-fluid d-inline-block align-top" alt=""></a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                          <ul class="navbar-nav ms-auto mb-z2 mb-lg-0">
+                              <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="/Data">Data</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="/Server">Server</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="/Sensor1">Calibration</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="/Configuration">Configuration</a>
+                              </li>
+                            </ul>
+                        </div>
+                    
+                      </nav>
+                      </br>
+                      <div class="mx-auto">
+                        <div class="card-group mx-auto">
+                          <div class="card">
+                            <div class="card-body">
+                              <br/>
+                              <h5 class="card-title text-center">Selamat datang.</h5>
+                              <!-- <p class="card-text text-center"><span id="s1">%SENS1%</span> <sup class="units">&deg;</sup>C</p> -->
+                              <br/>
+                              
+                            </div>
+                          </div>
+                          
+                      </div>
+            
+         
+        </div>
+     </div>
+     <footer class="fixed-bottom">
+      <div class="text-center">
+        © 2022. TPB TP Universitas Gadjah Mada
+     </footer>
+    <script src="bootstrap.bundle.js"></script>
+    <script>
+      setInterval(function ( ) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+          document.getElementById("s1").innerHTML = this.responseText;
+          }
+        };
+        xhttp.open("GET", "/s1", true);
+        xhttp.send();
+      }, 500 ) ;
+
+      setInterval(function ( ) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("s2").innerHTML = this.responseText;
+          }
+        };
+        xhttp.open("GET", "/s2", true);
+        xhttp.send();
+      }, 500 ) ;
+
+      setInterval(function ( ) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("s3").innerHTML = this.responseText;
+          }
+        };
+        xhttp.open("GET", "/s3", true);
+        xhttp.send();
+      }, 500 ) ;
+
+      setInterval(function ( ) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("s4").innerHTML = this.responseText;
+          }
+        };
+        xhttp.open("GET", "/s4", true);
+        xhttp.send();
+      }, 500 ) ;
+
+      setInterval(function ( ) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("s5").innerHTML = this.responseText;
+          }
+        };
+        xhttp.open("GET", "/s5", true);
+        xhttp.send();
+      }, 500 ) ;
+
+      setInterval(function ( ) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("s6").innerHTML = this.responseText;
+          }
+        };
+        xhttp.open("GET", "/s6", true);
+        xhttp.send();
+      }, 500 ) ;
+
+      setInterval(function ( ) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("s7").innerHTML = this.responseText;
+          }
+        };
+        xhttp.open("GET", "/s7", true);
+        xhttp.send();
+      }, 500 ) ;
+
+      setInterval(function ( ) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("rssi").innerHTML = this.responseText;
+          }
+        };
+        xhttp.open("GET", "/rssi", true);
+        xhttp.send();
+      }, 1000 ) ;
+    </script>
+  </body>
+
+</html>	

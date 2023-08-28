@@ -1,0 +1,24 @@
+
+1 Cara Masuk Mode Maintanance:
+a. tekan tombol maintanance
+b. Restart unit
+c. Buka 192.168.4.1 di browser hp atau laptop
+
+1.1 Halaman Data
+    Buka jangan lebih dari satu device dalam satu waktu
+1.2 Halaman Server
+1.2.1 End Point, masukkan end point, contoh "/feed/api3.php"
+1.2.2 Api Key, masukkan api key
+
+1.3 Calibration
+1.3.1 Masukkan Nilai kalibrasi tiap sensor, ada nilai A dan C, Ax + C
+
+1.4 Configuration
+1.4.1 Sleep Duration, masukkan nilai waktu untuk durasi sleep (mode penghematan daya) dalam satuan detik
+1.4.2 Export Log, untuk melihat nilai log
+
+R = 0, percobaan pengiriman pertama
+R = 1, percobaan pengiriman kedua
+R = 2, percobaan pengiriman ketiga
+
+R = 3, percobaan pengiriman dari file di sd Card
